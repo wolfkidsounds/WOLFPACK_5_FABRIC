@@ -7,7 +7,7 @@
 	"resetCurrentXP": true,
 	"disableMobFarms": true,
 	"disableFurnaceXP": false,
-	"xpBaseCost": 10,
+	"xpBaseCost": 30,
 	// XP equation: lvl^2 * multiplicator + base
 	"xpCostMultiplicator": 0.10000000149011612,
 	// Attribute values - Bonus for each lvl

@@ -37,6 +37,11 @@
             <Item>*\XaeroWaypoints\</Item>
             <Item>*\XaeroWaypoints_BACKUP032021\</Item>
             <Item>*\XaeroWorldMap\</Item>
+            <Item>*.ffs_gui</Item>
+            <Item>*\crash-reports\</Item>
+            <Item>\mods\literally_chunk_loader\New World\chunks.data</Item>
+            <Item>*\screenshots\</Item>
+            <Item>*\literally_chunk_loader\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
