@@ -1,6 +1,6 @@
 {
   "downgradeTime": 1800,
-  "upgradeTime": 500,
-  "permanentPath": false,
-  "steppedBeforePermanent": 20
+  "upgradeTime": 1000,
+  "permanentPath": true,
+  "steppedBeforePermanent": 150
 }
