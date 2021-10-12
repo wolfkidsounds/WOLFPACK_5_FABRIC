@@ -1,10 +1,10 @@
 generateOres = true
 blacklistedOres = []
 copperSurgenerationFactor = 4
-spawnWithGuideBook = true
+spawnWithGuideBook = false
 respawnWithGuideBook = true
 disableFuelTooltips = false
 disableItemTagTooltips = false
-newVersionMessage = true
+newVersionMessage = false
 steamDrillFuelUseFactor = 5
 steamDrillWaterUseFactor = 5
