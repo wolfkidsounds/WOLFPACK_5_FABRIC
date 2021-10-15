@@ -50,7 +50,7 @@
     <FolderPairs>
         <Pair>
             <Left>F:\Minecraft Server (WOLFKID)\WOLFPACK_5_FABRIC</Left>
-            <Right>C:\Users\Eric Witzel\curseforge\minecraft\Instances\Server Test</Right>
+            <Right>C:\Users\Eric Witzel\curseforge\minecraft\Instances\WOLFPACK 5</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
