@@ -154,6 +154,7 @@ key_gui.xaero_zoom_out:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_key.levelz.openskillscreen:key.keyboard.k
 key_key.observable.profile:key.keyboard.r
