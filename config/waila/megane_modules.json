@@ -4,6 +4,9 @@
       "badasintended.megane.impl.TeamRebornEnergy": true,
       "badasintended.megane.impl.LegacyTeamRebornEnergy": true
     },
+    "megane-industrial-revolution": {
+      "badasintended.megane.impl.IndustrialRevolution": true
+    },
     "megane-reborn-core": {
       "badasintended.megane.impl.RebornCore": true
     },
@@ -15,6 +18,9 @@
     },
     "megane-modern-industrialization": {
       "badasintended.megane.impl.ModernIndustrialization": true
+    },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
     },
     "megane-applied-energistics-2": {
       "badasintended.megane.impl.AppliedEnergistics2": true
