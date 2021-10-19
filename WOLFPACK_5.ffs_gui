@@ -45,6 +45,8 @@
             <Item>*\manifest.json</Item>
             <Item>*\modlist.html</Item>
             <Item>*\imm_ptl_state.json</Item>
+            <Item>*\.bobby\</Item>
+            <Item>*.dat_old |</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

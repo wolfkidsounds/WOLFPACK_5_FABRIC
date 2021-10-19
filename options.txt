@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","charmonium/journeyman","Classic Icons","file/EmbellishedStone-1.17.1.zip","file/xali\u0027s Enchanted Books v0.8.zip","file/sconces.zip","file/Better HUD 1.3.7.zip","file/EnderEyes_v2.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French Fonts (new).zip","file/Water+Improved.zip","file/Creatures+2.0.zip","file/FreshAnimations_v1.4.1.zip"]
+resourcePacks:["vanilla","Fabric Mods","charmonium/journeyman","Classic Icons","file/EmbellishedStone-1.17.1.zip","file/xali\u0027s Enchanted Books v0.8.zip","file/sconces.zip","file/Better HUD 1.3.7.zip","file/EnderEyes_v2.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/Water+Improved.zip","file/Creatures+2.0.zip","file/FreshAnimations_v1.4.1.zip"]
 incompatibleResourcePacks:["file/§6French Fonts (new).zip"]
 lastServer:
 lang:en_us
@@ -65,7 +65,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 key_key.attack:key.mouse.left
