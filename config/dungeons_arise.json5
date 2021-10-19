@@ -28,7 +28,7 @@
 	   [Illager Corsair Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"illagerCorsairGenerates": true,
+	"illagerCorsairGenerates": false,
 	// Base distance between Illager Corsair (in chunks). Must be higher than separation.
 	"illagerCorsairSpacing": 64,
 	// Base distance between Illager Corsair (in chunks)
@@ -40,7 +40,7 @@
 	   [Illager Galley Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"illagerGalleyGenerates": true,
+	"illagerGalleyGenerates": false,
 	// Base distance between Illager Galley (in chunks). Must be higher than separation.
 	"illagerGalleySpacing": 50,
 	// Base distance between Illager Galley (in chunks)
@@ -76,7 +76,7 @@
 	   [Illager Campsite Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"illagerCampsiteGenerates": true,
+	"illagerCampsiteGenerates": false,
 	// Base distance between Illager Campsite (in chunks). Must be higher than separation.
 	"illagerCampsiteSpacing": 60,
 	// Base distance between Illager Campsite (in chunks)
@@ -124,7 +124,7 @@
 	   [Heavenly Challenger Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"heavenlyChallengerGenerates": true,
+	"heavenlyChallengerGenerates": false,
 	// Base distance between Heavenly Challenger (in chunks). Must be higher than separation.
 	"heavenlyChallengerSpacing": 340,
 	// Base distance between Heavenly Challenger (in chunks)
@@ -136,7 +136,7 @@
 	   [Heavenly Conqueror Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"heavenlyConquerorGenerates": true,
+	"heavenlyConquerorGenerates": false,
 	// Base distance between Heavenly Conqueror (in chunks). Must be higher than separation.
 	"heavenlyConquerorSpacing": 230,
 	// Base distance between Heavenly Conqueror (in chunks)
@@ -148,7 +148,7 @@
 	   [Heavenly Rider Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"heavenlyRiderGenerates": true,
+	"heavenlyRiderGenerates": false,
 	// Base distance between Heavenly Rider (in chunks). Must be higher than separation.
 	"heavenlyRiderSpacing": 180,
 	// Base distance between Heavenly Rider (in chunks)
@@ -172,7 +172,7 @@
 	   [Small Blimps Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"smallBlimpGenerates": true,
+	"smallBlimpGenerates": false,
 	// Base distance between Small Blimps (in chunks). Must be higher than separation.
 	"smallBlimpSpacing": 80,
 	// Base distance between Small Blimps (in chunks)
