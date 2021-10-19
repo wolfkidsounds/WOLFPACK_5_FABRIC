@@ -8,21 +8,29 @@
   "waystone_block_hardness": 4,
   "waystone_block_required_mining_level": 1.0,
   "recipes": {
-    "abyss_watcher": {
+    "waystone": {
       "type": "minecraft:crafting_shaped",
       "pattern": [
-        "FEF"
+        "SAS",
+        "SES",
+        "SOS"
       ],
       "key": {
-        "E": {
-          "item": "minecraft:ender_pearl"
+        "A": {
+          "item": "waystones:abyss_watcher"
         },
-        "F": {
-          "item": "minecraft:flint"
+        "S": {
+          "item": "minecraft:stone"
+        },
+        "E": {
+          "item": "minecraft:emerald"
+        },
+        "O": {
+          "item": "minecraft:obsidian"
         }
       },
       "result": {
-        "item": "waystones:abyss_watcher",
+        "item": "waystones:waystone",
         "count": 1
       }
     },
@@ -43,6 +51,50 @@
       },
       "result": {
         "item": "waystones:waystone_scroll",
+        "count": 1
+      }
+    },
+    "stone_brick_waystone": {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "SAS",
+        "SES",
+        "SOS"
+      ],
+      "key": {
+        "A": {
+          "item": "waystones:abyss_watcher"
+        },
+        "S": {
+          "tag": "minecraft:stone_bricks"
+        },
+        "E": {
+          "item": "minecraft:emerald"
+        },
+        "O": {
+          "item": "minecraft:obsidian"
+        }
+      },
+      "result": {
+        "item": "waystones:stone_brick_waystone",
+        "count": 1
+      }
+    },
+    "abyss_watcher": {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "FEF"
+      ],
+      "key": {
+        "E": {
+          "item": "minecraft:ender_pearl"
+        },
+        "F": {
+          "item": "minecraft:flint"
+        }
+      },
+      "result": {
+        "item": "waystones:abyss_watcher",
         "count": 1
       }
     },
@@ -92,58 +144,6 @@
       },
       "result": {
         "item": "waystones:desert_waystone",
-        "count": 1
-      }
-    },
-    "waystone": {
-      "type": "minecraft:crafting_shaped",
-      "pattern": [
-        "SAS",
-        "SES",
-        "SOS"
-      ],
-      "key": {
-        "A": {
-          "item": "waystones:abyss_watcher"
-        },
-        "S": {
-          "item": "minecraft:stone"
-        },
-        "E": {
-          "item": "minecraft:emerald"
-        },
-        "O": {
-          "item": "minecraft:obsidian"
-        }
-      },
-      "result": {
-        "item": "waystones:waystone",
-        "count": 1
-      }
-    },
-    "stone_brick_waystone": {
-      "type": "minecraft:crafting_shaped",
-      "pattern": [
-        "SAS",
-        "SES",
-        "SOS"
-      ],
-      "key": {
-        "A": {
-          "item": "waystones:abyss_watcher"
-        },
-        "S": {
-          "tag": "minecraft:stone_bricks"
-        },
-        "E": {
-          "item": "minecraft:emerald"
-        },
-        "O": {
-          "item": "minecraft:obsidian"
-        }
-      },
-      "result": {
-        "item": "waystones:stone_brick_waystone",
         "count": 1
       }
     },

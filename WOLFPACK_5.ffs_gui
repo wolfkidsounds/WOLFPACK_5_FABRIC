@@ -42,6 +42,9 @@
             <Item>\mods\literally_chunk_loader\New World\chunks.data</Item>
             <Item>*\screenshots\</Item>
             <Item>*\literally_chunk_loader\</Item>
+            <Item>*\manifest.json</Item>
+            <Item>*\modlist.html</Item>
+            <Item>*\imm_ptl_state.json</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -50,7 +53,7 @@
     <FolderPairs>
         <Pair>
             <Left>F:\Minecraft Server (WOLFKID)\WOLFPACK_5_FABRIC</Left>
-            <Right>C:\Users\Eric Witzel\curseforge\minecraft\Instances\Server Test</Right>
+            <Right>C:\Users\Eric Witzel\curseforge\minecraft\Instances\WOLFPACK 5</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
