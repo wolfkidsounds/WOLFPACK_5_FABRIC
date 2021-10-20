@@ -3,5 +3,5 @@
   "automaticMinecartSlowDown": true,
   "manualMinecartSlowDown": true,
   "storageMinecartSlowDown": true,
-  "maxSpeed": 24
+  "maxSpeed": 30
 }

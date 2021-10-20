@@ -1,7 +1,7 @@
 artifactRarity = 1.0
 
 [campsite]
-genChance = 8
+genChance = 6
 mimicChance = 30
 oreChance = 25
 minY = 0

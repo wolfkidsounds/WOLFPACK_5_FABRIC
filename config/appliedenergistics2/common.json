@@ -1,7 +1,7 @@
 {
   "general": {
     "__comment": "Enables the ability of Tiny TNT to break blocks.",
-    "removeCrashingItemsOnLoad": false,
+    "removeCrashingItemsOnLoad": true,
     "unsupportedDeveloperTools": false,
     "matterCannonBlockDamage": true,
     "tinyTntBlockDamage": true
@@ -116,6 +116,6 @@
   "inWorldCrystalGrowth": {
     "__comment": "The speed multiplier to use when the crystals are submerged in the improved fluid.",
     "improvedFluidTag": "",
-    "improvedFluidMultiplier": 2.0
+    "improvedFluidMultiplier": 4.0
   }
 }
