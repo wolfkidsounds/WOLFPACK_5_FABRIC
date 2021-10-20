@@ -2,7 +2,7 @@
 	/* Number of Invincibility Ticks when a player hits themselves
 	       with a Firework Rocket? (Vanilla: 10)
 	*/
-	"selfDamageInvincibilityTicks": 0,
+	"selfDamageInvincibilityTicks": 5,
 	// Base damage of Firework Rockets.
 	"baseDamage": 3.0,
 	// Multiplier for Rocket Jump Velocity.
