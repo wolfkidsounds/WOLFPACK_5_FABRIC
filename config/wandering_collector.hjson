@@ -10,7 +10,7 @@
 	// The minimum emerald price to buy back items
 	// default: 16
 	// Must be inclusively between 1.0 and 64.0
-	min-emeralds-trade: 16
+	min-emeralds-trade: 2
 	// The maximum emerald price to buy back items
 	// default: 64
 	// Must be inclusively between 1.0 and 64.0
