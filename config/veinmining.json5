@@ -3,15 +3,15 @@
 		// The rarity of the enchantment
 		"rarity": "RARE",
 		// The number of levels of the enchantment
-		"levels": 1,
+		"levels": 3,
 		// Whether or not to consider this enchantment as a treasure
-		"isTreasure": false,
+		"isTreasure": true,
 		// Whether or not this enchantment can be randomly selected for enchanting
-		"isRandomlySelectable": true,
+		"isRandomlySelectable": false,
 		// Whether or not this enchantment is available on books
 		"isAvailableOnBooks": true,
 		// The minimum enchanting power requirement for the first enchantment level
-		"minPowerBase": 15,
+		"minPowerBase": 10,
 		// The additional enchanting power requirement for each enchantment level after the first
 		"minPowerPerLevel": 5,
 		// List of enchantments that cannot be applied together with this enchantment
