@@ -2,7 +2,7 @@
 	// Should the Lectern Structure Processor run?
 	"doLecternProcessor": true,
 	// Should the Bookshelf Structure Processor run?
-	"doBookshelfProcessor": true,
+	"doBookshelfProcessor": false,
 	/* Should Stronghold Libraries have Spell Books spawn? (Does
 	       nothing if YUNG's Better Strongholds is loaded)
 	*/
