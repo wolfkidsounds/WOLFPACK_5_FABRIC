@@ -16,6 +16,6 @@
     "max_pre_rendered_frames": 3
   },
   "notifications": {
-    "hide_donation_button": false
+    "hide_donation_button": true
   }
 }
