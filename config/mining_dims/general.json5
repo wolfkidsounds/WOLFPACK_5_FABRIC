@@ -8,15 +8,15 @@
 	"enableMiningPortal": true,
 	"enableHuntingPortal": true,
 	"enableCavingPortal": true,
-	"enableNetheringPortal": true,
+	"enableNetheringPortal": false,
 	/* 
 	   
 	   ***********************
 	   Portable Teleporters
 	   ***********************
 	*/
-	"enableMiningTeleporter": true,
-	"enableHuntingTeleporter": true,
-	"enableCavingTeleporter": true,
-	"enableNetheringTeleporter": true
+	"enableMiningTeleporter": false,
+	"enableHuntingTeleporter": false,
+	"enableCavingTeleporter": false,
+	"enableNetheringTeleporter": false
 }
