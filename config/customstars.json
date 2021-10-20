@@ -1,7 +1,7 @@
 {
-  "baseSize": 0.15,
-  "maxSizeMultiplier": 0.1,
-  "starCount": 1500,
+  "baseSize": 0.2,
+  "maxSizeMultiplier": 0.2,
+  "starCount": 2500,
   "starNoise": true,
   "starNoiseSeed": 10842,
   "starNoiseThreshold": 0.5,
