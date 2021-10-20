@@ -1,26 +1,26 @@
 {
 	// Distance in Blocks
-	"increasingDistance": 300,
+	"increasingDistance": 500,
 	// 0.1 = 10%
 	"distanceFactor": 0.1,
 	// in minutes
-	"increasingTime": 30,
+	"increasingTime": 120,
 	// 0.1 = 10%
 	"timeFactor": 0.1,
 	// 2.0 = 200% = double
-	"maxFactorHealth": 2.0,
-	"maxFactorDamage": 2.0,
-	"maxFactorProtection": 1.5,
+	"maxFactorHealth": 4.0,
+	"maxFactorDamage": 4.0,
+	"maxFactorProtection": 4.0,
 	// Applies only to special zombie
 	"maxFactorSpeed": 2.0,
-	"allowRandomValues": false,
+	"allowRandomValues": true,
 	// in %
 	"randomChance": 10,
 	// in %
 	"randomFactor": 10,
 	// Based on other settings
 	"extraXp": true,
-	"maxXPFactor": 2.0,
+	"maxXPFactor": 4.0,
 	"affectBosses": true,
 	// Applies only for dimensions other than Overworld
 	"excludeDistanceInOtherDimension": true,
