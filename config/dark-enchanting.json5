@@ -2,7 +2,7 @@
   //All enchantments cost this much to start.
   "baseCost": 2.5,
   //Make enchantments cost more.
-  "costFactor": 1.0,
+  "costFactor": 1.2,
   //How much curses should be multiplied by.
   "curseFactor": 3.0,
   //How much treasure enchantments should be multiplied by.
