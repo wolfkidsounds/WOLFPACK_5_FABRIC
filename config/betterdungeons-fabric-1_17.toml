@@ -1,6 +1,6 @@
 [betterDungeons.general]
 enableHeads = true
-removeVanillaDungeons = true
+removeVanillaDungeons = false
 enableNetherBlocks = true
 [betterDungeons.spiderDungeon]
 spiderDungeonStartMinY = 70
@@ -31,8 +31,8 @@ bannerMaxCount = 2
 chestMinCount = 1
 chestMaxCount = 2
 enableSmallDungeons = true
-smallDungeonSeparationDistance = 10
-smallDungeonDistanceVariation = 6
+smallDungeonSeparationDistance = 30
+smallDungeonDistanceVariation = 10
 whitelistedDimensions = "[minecraft:overworld]"
 blacklistedBiomes = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
 enableOreProps = true
