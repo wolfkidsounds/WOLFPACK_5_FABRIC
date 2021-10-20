@@ -2,9 +2,9 @@
 	// Settings related to hardcore mode
 	"Hardcore": {
 		// How many lives players should start with.
-		"DEFAULT_LIVES": 3,
+		"DEFAULT_LIVES": 5,
 		// Define in seconds how long the rot timer is.
-		"HEART_ROT_TIME": 120,
+		"HEART_ROT_TIME": 500,
 		// Set to true to enable the heart rot timer
 		"HEART_ROT_ENABLE": false,
 		// Use this to set the maximum lives obtainable
@@ -55,13 +55,13 @@
 		},
 	},
 	// Enable this to cause the player to be granted a gift on spawning into the world
-	"SPAWN_BOOK": false,
+	"SPAWN_BOOK": true,
 	// Loose the quest book when you die, if set to false it will stay in your inventory
-	"LOSE_QUEST_BOOK": true,
+	"LOSE_QUEST_BOOK": false,
 	// Allow every single player in a party to claim the reward for a quest. Setting this to false will give the party one set of rewards to share.
 	"MULTI_REWARD": true,
 	// Allow teams, currently extremely buggy!
-	"ENABLE_TEAMS": true,
+	"ENABLE_TEAMS": false,
 	// Use this to specify NBT tags that should be ignored when comparing items with NBT subset
 	"NBT_SUBSET_FILTER": [
 		"RepairCost",
