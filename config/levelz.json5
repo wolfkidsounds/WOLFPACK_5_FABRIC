@@ -1,9 +1,9 @@
 {
-	"maxLevel": 25,
+	"maxLevel": 20,
 	// Applies if bonus chest world setting is enabled
 	"startPoints": 5,
 	// If true will reset stats on death
-	"hardMode": false,
+	"hardMode": true,
 	"resetCurrentXP": true,
 	"disableMobFarms": true,
 	"disableFurnaceXP": true,
