@@ -1,17 +1,17 @@
 {
-	"maxLevel": 30,
+	"maxLevel": 25,
 	// Applies if bonus chest world setting is enabled
 	"startPoints": 5,
 	// If true will reset stats on death
 	"hardMode": false,
 	"resetCurrentXP": true,
 	"disableMobFarms": true,
-	"disableFurnaceXP": false,
+	"disableFurnaceXP": true,
 	"xpBaseCost": 30,
 	// XP equation: lvl^2 * multiplicator + base
 	"xpCostMultiplicator": 0.10000000149011612,
 	// Attribute values - Bonus for each lvl
-	"healthBase": 10.0,
+	"healthBase": 12.0,
 	"healthBonus": 1.0,
 	// Absorption Bonus at max lvl
 	"healthAbsorptionBonus": 6.0,
