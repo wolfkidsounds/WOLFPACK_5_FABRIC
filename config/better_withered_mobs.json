@@ -1,0 +1,6 @@
+{
+  "witherSkeletonsSpawnWithWitheringEnchantedStoneSwords": true,
+  "witheredMobsDontDropRegularBones": true,
+  "witheringEnchantmentCanBeAnviledOntoAxes": true,
+  "witheringEnchantmentCanBeAnviledOntoTridents": true
+}
