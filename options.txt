@@ -178,8 +178,9 @@ key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
 key_carrier.key:key.keyboard.unknown
-soundCategory_master:0.0
-soundCategory_music:0.0
+key_presencefootsteps.settings.key:key.keyboard.f10
+soundCategory_master:0.8013245
+soundCategory_music:0.30985916
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
