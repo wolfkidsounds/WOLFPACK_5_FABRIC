@@ -6,7 +6,15 @@
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>TwoWay</Variant>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>left</LeftOnly>
+            <RightOnly>left</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>left</RightNewer>
+            <Different>none</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
         <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
@@ -46,7 +54,15 @@
             <Item>*\modlist.html</Item>
             <Item>*\imm_ptl_state.json</Item>
             <Item>*\.bobby\</Item>
-            <Item>*.dat_old |</Item>
+            <Item>*.dat_old</Item>
+            <Item>*\bounty_decrees\</Item>
+            <Item>*\bounty_pools\</Item>
+            <Item>*\not-enough-crashes\</Item>
+            <Item>*\patchouli_books\</Item>
+            <Item>*\simple-rpc\</Item>
+            <Item>\config\TabTPS\userdata\</Item>
+            <Item>*\voicechat\</Item>
+            <Item>*.gitignore |</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
