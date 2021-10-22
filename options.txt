@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","continuity/default","continuity/glass_pane_culling_fix","charmonium/journeyman","Black Icons","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/Better HUD 1.3.7.zip","file/EmbellishedStone-1.17.1.zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip"]
+resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/Better HUD 1.3.7.zip","file/EmbellishedStone-1.17.1.zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -102,7 +102,6 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.expandedstorage.config:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.villagerquests.openquestscreen:key.keyboard.i
 key_key.adventurez.activatearmor:key.keyboard.v
@@ -124,7 +123,6 @@ key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.indrev.modular:key.keyboard.unknown
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
 key_gui.xaero_open_map:key.keyboard.m
@@ -162,10 +160,6 @@ key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_key.levelz.openskillscreen:key.keyboard.k
-key_key.observable.profile:key.keyboard.r
-key_key.extraalchemy.magnetism_toggle:key.keyboard.n
-key_key.extraalchemy.potion_bag_mode:key.keyboard.k
-key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
 key_key.quickspyglasser.use:key.keyboard.c
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
 key_key.ae2wtlib.wct:key.keyboard.unknown
@@ -173,7 +167,6 @@ key_key.ae2wtlib.wpt:key.keyboard.unknown
 key_key.ae2wtlib.wit:key.keyboard.unknown
 key_key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
-key_key.campanion.open_backpack:key.keyboard.b
 key_carrier.key:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.f10
 soundCategory_master:0.8013245
