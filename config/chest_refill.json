@@ -1,0 +1,26 @@
+{
+  "defaultProperties": {
+    "randomize_loot_seed": true,
+    "allow_reloot_without_permission": false,
+    "max_refills": 10,
+    "refill_non_empty": true,
+    "min_wait_time": 12000
+  },
+  "// Map to override above config for certain loot tables only.": "",
+  "lootModifierMap": {
+    "sample_mod:chests/custom_loot_table": {
+      "randomize_loot_seed": true,
+      "allow_reloot_without_permission": false,
+      "max_refills": 5,
+      "refill_non_empty": false,
+      "min_wait_time": 14400
+    },
+    "//minecraft:chests/igloo_chest": {
+      "randomize_loot_seed": true,
+      "allow_reloot_without_permission": false,
+      "max_refills": 5,
+      "refill_non_empty": false,
+      "min_wait_time": 14400
+    }
+  }
+}
