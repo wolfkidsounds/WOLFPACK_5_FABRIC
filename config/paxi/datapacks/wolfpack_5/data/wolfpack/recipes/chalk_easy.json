@@ -1,0 +1,16 @@
+{
+    "group": "wolfpack",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:white_dye"
+      },
+      {
+        "item": "minecraft:brick"
+      }
+    ],
+    "result": {
+      "item": "chalk:chalk",
+      "count": 1
+    }
+  }
