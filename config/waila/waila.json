@@ -7,8 +7,8 @@
     "hideFromDebug": true,
     "enableTextToSpeech": false,
     "rateLimit": 250,
-    "maxHealthForRender": 40,
-    "maxHeartsPerLine": 10
+    "maxHealthForRender": 100,
+    "maxHeartsPerLine": 20
   },
   "overlay": {
     "position": {
@@ -25,7 +25,7 @@
       "bossBarsOverlap": false
     },
     "color": {
-      "alpha": 80,
+      "alpha": 0,
       "themes": [
         {
           "id": "waila:dark",
@@ -42,7 +42,7 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
     "scale": 1.0
   },
