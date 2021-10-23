@@ -103,7 +103,6 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.villagerquests.openquestscreen:key.keyboard.i
 key_key.adventurez.activatearmor:key.keyboard.unknown
 key_key.adventurez.dragonflydown:key.keyboard.unknown
 key_key.adventurez.dragonfirebreath:key.keyboard.unknown
