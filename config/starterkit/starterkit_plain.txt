@@ -1,0 +1,1 @@
+WOLFPACK 5 is a community driven server modpack for fabric.\n\n---\n\nQuick Guide:\n- Hit "K" to open your skills menu.\n- Hit "I" to open the villager quest menu.\n- Hold "Left Alt" to activate the vein mining enchantment.\n- Guidebooks can be found inside your inventory.\n\nGood Luck and have some fun :)
