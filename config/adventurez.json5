@@ -14,6 +14,11 @@
 	"mammoth_spawn_weight": 1,
 	"ender_whale_spawn_weight": 1,
 	"iguana_spawn_weight": 1,
+	// Chance for spawning when geode generates; 1/Value
+	"amethyst_golem_spawn_chance": 5,
+	"desert_rhino_spawn_weight": 1,
+	// Chance for spawning when desert well generates; 1/Value
+	"desert_rhino_well_spawn_chance": 1,
 	"allow_stone_golem_summoning": true,
 	"allow_the_eye_summoning": true,
 	"allow_dragon_hatching": true,
@@ -23,5 +28,6 @@
 	"resummoned_ender_dragon_drops_egg": true,
 	"allow_ender_dragon_nether_portal": true,
 	"heavy_dragon_flight": true,
-	"allow_special_enchant_loot": true
+	"allow_special_enchant_loot": true,
+	"allow_extra_tooltips": true
 }
