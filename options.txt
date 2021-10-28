@@ -122,6 +122,15 @@ key_key.voice_chat:key.keyboard.unknown
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.wands.wand_mode:key.keyboard.v
+key_key.wands.wand_action:key.keyboard.h
+key_key.wands.wand_menu:key.keyboard.y
+key_key.wands.wand_orientation:key.keyboard.x
+key_key.wands.wand_invert:key.keyboard.i
+key_key.wands.wand_fill_circle:key.keyboard.k
+key_key.wands.wand_undo:key.keyboard.u
+key_key.wands.palette_menu:key.keyboard.j
+key_key.wands.wand_palette_mode:key.keyboard.r
 key_key.indrev.modular:key.keyboard.unknown
 key_key.backslot.switch_backslot:key.keyboard.unknown
 key_key.backslot.switch_beltslot:key.keyboard.unknown
@@ -170,7 +179,7 @@ key_key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
 key_carrier.key:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.f10
-soundCategory_master:0.0
+soundCategory_master:0.8029801
 soundCategory_music:0.30985916
 soundCategory_record:1.0
 soundCategory_weather:1.0
