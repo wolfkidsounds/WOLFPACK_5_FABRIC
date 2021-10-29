@@ -10,7 +10,7 @@
 	"disableFurnaceXP": false,
 	"xpBaseCost": 40,
 	// XP equation: lvl^2 * multiplicator + base
-	"xpCostMultiplicator": 0.11000000149011612,
+	"xpCostMultiplicator": 0.10999999940395355,
 	// Attribute values - Bonus for each lvl
 	"healthBase": 12.0,
 	"healthBonus": 1.0,
