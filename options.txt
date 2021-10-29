@@ -24,17 +24,17 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5035211267605634
-renderDistance:16
+renderDistance:12
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:260
+maxFps:120
 difficulty:2
 graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/Stay_True_1.17.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip","file/Halloween Panoramas 2021.zip","file/§b§lHuman Villagers §cv10.0.zip","file/§2§lHarvest§a§lMe§0.zip","file/Clear_Glass_Pack_1.17.zip"]
+resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/Stay_True_1.17.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip","file/Halloween Panoramas 2021.zip","file/§b§lHuman Villagers §cv10.0.zip","file/Clear_Glass_Pack_1.17.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -111,8 +111,6 @@ key_key.conjuring.toggle_tool_mode:key.keyboard.unknown
 key_key.charm.openCraftingTable:key.keyboard.unknown
 key_key.cleanview.togglecleanview:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.left.alt
-key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
-key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
