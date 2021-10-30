@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/Stay_True_1.17.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip","file/Halloween Panoramas 2021.zip","file/§b§lHuman Villagers §cv10.0.zip","file/Clear_Glass_Pack_1.17.zip"]
+resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/Stay_True_1.17_mod.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip","file/Halloween Panoramas 2021.zip","file/§b§lHuman Villagers §cv10.0.zip","continuity/glass_pane_culling_fix","file/Clear_Glass_Pack_1.17.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
