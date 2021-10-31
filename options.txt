@@ -130,8 +130,8 @@ key_key.wands.wand_undo:key.keyboard.u
 key_key.wands.palette_menu:key.keyboard.j
 key_key.wands.wand_palette_mode:key.keyboard.r
 key_key.indrev.modular:key.keyboard.unknown
-key_key.backslot.switch_backslot:key.keyboard.unknown
-key_key.backslot.switch_beltslot:key.keyboard.unknown
+key_key.backslot.switch_backslot:key.keyboard.g
+key_key.backslot.switch_beltslot:key.keyboard.g
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.keypad.add
@@ -176,9 +176,9 @@ key_key.ae2wtlib.wpt:key.keyboard.unknown
 key_key.ae2wtlib.wit:key.keyboard.unknown
 key_key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
-key_carrier.key:key.keyboard.unknown
+key_carrier.key:key.keyboard.right.alt
 key_presencefootsteps.settings.key:key.keyboard.f10
-soundCategory_master:0.8029801
+soundCategory_master:1.0
 soundCategory_music:0.30985916
 soundCategory_record:1.0
 soundCategory_weather:1.0

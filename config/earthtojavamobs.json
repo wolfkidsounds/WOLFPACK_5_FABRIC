@@ -354,7 +354,7 @@
     ]
   },
   "rainbowSheep": {
-    "spawn": true,
+    "spawn": false,
     "weight": 12,
     "groupMin": 2,
     "groupMax": 4,
