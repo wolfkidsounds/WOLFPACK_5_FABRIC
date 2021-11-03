@@ -1,0 +1,13 @@
+{
+    "group": "wolfpack",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "squirrels:acorn"
+      }
+    ],
+    "result": {
+      "item": "minecraft:oak_sapling",
+      "count": 1
+    }
+  }
