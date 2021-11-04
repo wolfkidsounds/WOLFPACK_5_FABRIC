@@ -1,6 +1,6 @@
 {
-    "replace": false,
+    "replace": true,
     "skill": "smithing",
-    "level": 12,
+    "level": 5,
     "block": "minecraft:blastfurnace"
 }
