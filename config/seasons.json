@@ -66,8 +66,8 @@
   "foliageColorList": [],
   "grassColorList": [],
   "isSeasonMessingCrops": true,
-  "isSeasonMessingBonemeal": false,
-  "doCropsGrowsNormallyUnderground": true,
+  "isSeasonMessingBonemeal": true,
+  "doCropsGrowsNormallyUnderground": false,
   "defaultCropConfig": {
     "springModifier": 1.0,
     "summerModifier": 0.8,
@@ -75,5 +75,5 @@
     "winterModifier": 0.0
   },
   "cropConfigs": [],
-  "doAnimalsBreedInWinter": true
+  "doAnimalsBreedInWinter": false
 }
