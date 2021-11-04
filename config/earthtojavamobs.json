@@ -162,7 +162,7 @@
     ]
   },
   "goldCrestedChicken": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
