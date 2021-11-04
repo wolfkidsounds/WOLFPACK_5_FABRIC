@@ -3,7 +3,7 @@
 'chest' : '',
 'legs' : '',
 'feet' : '',
-0 : '{Count:1b,id:"minecraft:written_book",tag:{author:"wolfkidsounds",filtered_title:"WOLFPACK 5",pages:['{"text":"WOLFPACK 5\\nis a community driven server modpack for fabric.\\n\\n---\\n\\nYou can find a guide on the next page."}','{"text":"- Hit \\"K\\" to open your skills menu.\\n\\n- Hold \\"Left Alt\\" to activate the vein miner (when you have the enchantment).\\n\\n- Some guidebooks can already be found inside of you inventory."}','{"text":"There is a quick-wik on the curseforge (and github) site of this modpack.\\n\\n\\n---\\n\\nGood Luck and have fun :)"}'],resolved:1b,title:"WOLFPACK 5"}}',
+0 : '{Count:1b,id:"minecraft:written_book",tag:{author:"wolfkidsounds",filtered_title:"WOLFPACK 5",pages:['{"text":"WOLFPACK 5\\nis a community driven server modpack for fabric.\\n\\n---\\n\\nYou can find a small guide on the next page."}','{"text":"- Hit \\"K\\" to open your skills menu.\\n\\n- Hold \\"Left Alt\\" to activate the veinminer (only works with the enchantment).\\n\\n- Some guidebooks can already be found inside of your inventory."}','{"text":"There is a small wiki on the curseforge (and github) site of this modpack.\\n\\n\\n---\\n\\nGood Luck and have fun :)"}'],resolved:1b,title:"WOLFPACK 5"}}',
 1 : '{Count:1b,id:"minecraft:experience_bottle"}',
 2 : '{Count:8b,id:"minecraft:bread"}',
 3 : '',
