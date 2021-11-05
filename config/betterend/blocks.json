@@ -470,5 +470,6 @@
       "murkweed [default: 43]": 43,
       "needlegrass [default: 44]": 44
     }
-  }
+  },
+  "betterend [default: true]": true
 }
