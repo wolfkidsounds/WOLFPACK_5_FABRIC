@@ -19,6 +19,8 @@
 	"desert_rhino_spawn_weight": 1,
 	// Chance for spawning when desert well generates; 1/Value
 	"desert_rhino_well_spawn_chance": 1,
+	"shaman_spawn_weight": 1,
+	"deer_spawn_weight": 6,
 	"allow_stone_golem_summoning": true,
 	"allow_the_eye_summoning": true,
 	"allow_dragon_hatching": true,
@@ -29,5 +31,6 @@
 	"allow_ender_dragon_nether_portal": true,
 	"heavy_dragon_flight": true,
 	"allow_special_enchant_loot": true,
-	"allow_extra_tooltips": true
+	"allow_extra_tooltips": true,
+	"allow_all_items_on_holder": false
 }
