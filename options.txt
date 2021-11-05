@@ -28,7 +28,7 @@ renderDistance:12
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:240
+maxFps:120
 difficulty:2
 graphicsMode:1
 ao:2
@@ -144,11 +144,6 @@ key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
-key_key.mousewheelie.open_config_screen:key.keyboard.unknown
-key_key.mousewheelie.sort_inventory:key.keyboard.r
-key_key.mousewheelie.scroll_up:key.keyboard.unknown
-key_key.mousewheelie.scroll_down:key.keyboard.unknown
-key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
