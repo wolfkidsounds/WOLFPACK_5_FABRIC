@@ -4,7 +4,7 @@
     "mudLakeFrequency": 25
   },
   "albinoCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -33,7 +33,7 @@
     ]
   },
   "boneSpider": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -62,7 +62,7 @@
     ]
   },
   "bronzedChicken": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -71,7 +71,7 @@
     ]
   },
   "cluckshroom": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -91,7 +91,7 @@
     ]
   },
   "creamCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -115,7 +115,7 @@
     ]
   },
   "fancyChicken": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -162,7 +162,7 @@
     ]
   },
   "goldCrestedChicken": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -203,7 +203,7 @@
     ]
   },
   "jollyLlama": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -241,7 +241,7 @@
     ]
   },
   "midnightChicken": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -427,7 +427,7 @@
     ]
   },
   "sunsetCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -436,7 +436,7 @@
     ]
   },
   "tropicalSlime": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,

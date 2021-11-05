@@ -73,7 +73,9 @@
 			// Declares the maximum amount of recipes displayed in a page if possible.
 			"maxRecipesPerPage": 15,
 			// Declares whether entry rendering time should be debugged.
-			"debugRenderTimeRequired": false
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true
 		},
 		"accessibility": {
 			"entrySize": 1.0,

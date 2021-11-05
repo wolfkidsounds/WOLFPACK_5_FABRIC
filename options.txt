@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/Stay_True_1.17_mod.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip","file/Halloween Panoramas 2021.zip","file/§b§lHuman Villagers §cv10.0.zip","continuity/glass_pane_culling_fix","file/Clear_Glass_Pack_1.17.zip"]
+resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/Stay_True_1.17_mod.zip","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","file/FreshAnimations_v1.4.1.zip","file/§b§lHuman Villagers §cv10.0.zip","continuity/glass_pane_culling_fix","file/Clear_Glass_Pack_1.17.zip","file/BetterEnderDragon-1.17.x.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -144,11 +144,6 @@ key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
-key_key.mousewheelie.open_config_screen:key.keyboard.unknown
-key_key.mousewheelie.sort_inventory:key.keyboard.r
-key_key.mousewheelie.scroll_up:key.keyboard.unknown
-key_key.mousewheelie.scroll_down:key.keyboard.unknown
-key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -179,7 +174,7 @@ key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
 key_carrier.key:key.keyboard.right.alt
 key_presencefootsteps.settings.key:key.keyboard.f10
 soundCategory_master:1.0
-soundCategory_music:0.30985916
+soundCategory_music:0.25
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
