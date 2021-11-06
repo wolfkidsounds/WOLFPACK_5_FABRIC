@@ -15,8 +15,11 @@
   "surface_builder": "minecraft:grass",
   "carvers": {
     "air": [
-      "minecraft:prototype_cave",
-      "minecraft:prototype_canyon"
+      "minecraft:ocean_cave"
+    ],
+    "liquid": [
+      "minecraft:underwater_canyon",
+      "minecraft:underwater_cave"
     ]
   },
   "features": [
@@ -34,25 +37,20 @@
       "wythers:warm_ocean/disk_sand_seafloor",
       "wythers:warm_ocean/ore_replace_dirt_to_stone",
       "wythers:warm_ocean/heightmap_ore_mossy_cobblestone",
-      "minecraft:prototype_ore_dirt",
-      "minecraft:prototype_ore_gravel",
-      "minecraft:prototype_ore_granite",
-      "minecraft:prototype_ore_diorite",
-      "minecraft:prototype_ore_andesite",
-      "minecraft:prototype_ore_tuff",
-      "minecraft:prototype_ore_coal_upper",
-      "minecraft:prototype_ore_coal_lower",
-      "minecraft:prototype_ore_iron_upper",
-      "minecraft:prototype_ore_iron_middle",
-      "minecraft:prototype_ore_iron_small",
-      "minecraft:prototype_ore_gold",
-      "minecraft:prototype_ore_redstone",
-      "minecraft:prototype_ore_redstone_lower",
-      "minecraft:prototype_ore_diamond",
-      "minecraft:prototype_ore_diamond_large",
-      "minecraft:prototype_ore_lapis",
-      "minecraft:prototype_ore_lapis_buried",
-      "minecraft:prototype_ore_copper",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "wythers:warm_ocean/disk_dead_coral",
       "wythers:generic/disk_sand_beach"
     ],

@@ -1,5 +1,5 @@
 {
-  "scale": 0.0,
+  "scale": -0.07,
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -14,13 +14,9 @@
   },
   "surface_builder": "wythers:mushroom_shore",
   "carvers": {
-    "air": [
-      "terralith:noodle_ravine",
-      "terralith:flat_cave",
-      "terralith:tall_cave",
-      "minecraft:prototype_cave",
-      "minecraft:prototype_canyon",
-      "minecraft:prototype_crevice"
+    "air": [],
+    "liquid": [
+      "minecraft:underwater_cave"
     ]
   },
   "features": [
@@ -52,26 +48,20 @@
     [],
     [
       "wythers:mushroom_fields/disk_sand_seafloor",
-      "minecraft:prototype_ore_dirt",
-      "minecraft:prototype_ore_gravel",
-      "minecraft:prototype_ore_granite",
-      "minecraft:prototype_ore_diorite",
-      "minecraft:prototype_ore_andesite",
-      "minecraft:prototype_ore_tuff",
-      "minecraft:prototype_ore_coal_upper",
-      "minecraft:prototype_ore_coal_lower",
-      "minecraft:prototype_ore_iron_upper",
-      "minecraft:prototype_ore_iron_middle",
-      "minecraft:prototype_ore_iron_small",
-      "minecraft:prototype_ore_gold",
-      "minecraft:prototype_ore_redstone",
-      "minecraft:prototype_ore_redstone_lower",
-      "minecraft:prototype_ore_diamond",
-      "minecraft:prototype_ore_diamond_large",
-      "minecraft:prototype_ore_lapis",
-      "minecraft:prototype_ore_lapis_buried",
-      "minecraft:prototype_ore_copper",
-      "minecraft:prototype_underwater_magma",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "wythers:mushroom_fields/ore_grass_block_to_sand"
     ],
     [
@@ -217,5 +207,5 @@
   "temperature": 0.9,
   "downfall": 0.8,
   "category": "beach",
-  "depth": 0.125
+  "depth": 0
 }

@@ -2,19 +2,56 @@
   "type": "minecraft:decorated",
   "config": {
     "decorator": {
-      "type": "minecraft:count_extra",
+      "type": "minecraft:decorated",
       "config": {
-        "count": 1000,
-        "extra_count": 0,
-        "extra_chance": 0
+        "outer": {
+          "type": "minecraft:count_noise_biased",
+          "config": {
+            "noise_to_count_ratio": 1,
+            "noise_factor": 1000,
+            "noise_offset": 0.4
+          }
+        },
+        "inner": {
+          "type": "minecraft:count_noise_biased",
+          "config": {
+            "noise_to_count_ratio": -1,
+            "noise_factor": 1000,
+            "noise_offset": -0.4
+          }
+        }
       }
     },
     "feature": {
       "type": "minecraft:decorated",
       "config": {
         "decorator": {
-          "type": "minecraft:square",
-          "config": {}
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:decorated",
+              "config": {
+                "outer": {
+                  "type": "minecraft:count_noise_biased",
+                  "config": {
+                    "noise_to_count_ratio": -1,
+                    "noise_factor": 250,
+                    "noise_offset": 0
+                  }
+                },
+                "inner": {
+                  "type": "minecraft:count",
+                  "config": {
+                    "count": 100
+                  }
+                }
+              }
+            },
+            "inner": {
+              "type": "minecraft:square",
+              "config": {}
+            }
+          }
         },
         "feature": {
           "type": "minecraft:decorated",
@@ -25,45 +62,15 @@
                 "height": {
                   "type": "minecraft:uniform",
                   "min_inclusive": {
-                    "absolute": 63
+                    "absolute": 62
                   },
                   "max_inclusive": {
-                    "absolute": 63
+                    "absolute": 62
                   }
                 }
               }
             },
-            "feature": {
-              "type": "minecraft:simple_block",
-              "config": {
-                "to_place": {
-                  "type": "minecraft:simple_state_provider",
-                  "state": {
-                    "Name": "minecraft:small_dripleaf",
-                    "Properties": {
-                      "facing": "east",
-                      "half": "upper",
-                      "waterlogged": "false"
-                    }
-                  }
-                },
-                "place_on": [
-                  {
-                    "Name": "minecraft:moss_block"
-                  }
-                ],
-                "place_in": [
-                  {
-                    "Name": "minecraft:grass"
-                  }
-                ],
-                "place_under": [
-                  {
-                    "Name": "minecraft:air"
-                  }
-                ]
-              }
-            }
+            "feature": "wythers:generic/small_dripleaf"
           }
         }
       }

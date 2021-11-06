@@ -19,7 +19,7 @@
               "type": "minecraft:cave_surface",
               "config": {
                 "surface": "floor",
-                "floor_to_ceiling_search_range": 50
+                "floor_to_ceiling_search_range": 43
               }
             }
           }

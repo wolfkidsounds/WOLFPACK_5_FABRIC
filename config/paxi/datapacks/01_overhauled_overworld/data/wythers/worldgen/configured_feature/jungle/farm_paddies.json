@@ -1,0 +1,78 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:decorated",
+      "config": {
+        "outer": {
+          "type": "minecraft:count_noise_biased",
+          "config": {
+            "noise_to_count_ratio": 1,
+            "noise_factor": 80,
+            "noise_offset": -0.3
+          }
+        },
+        "inner": {
+          "type": "minecraft:count_noise_biased",
+          "config": {
+            "noise_to_count_ratio": -1,
+            "noise_factor": 200,
+            "noise_offset": 0.2
+          }
+        }
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:count",
+              "config": {
+                "count": 10
+              }
+            },
+            "inner": {
+              "type": "minecraft:square",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "height": {
+                  "type": "minecraft:uniform",
+                  "min_inclusive": {
+                    "absolute": 85
+                  },
+                  "max_inclusive": {
+                    "absolute": 85
+                  }
+                }
+              }
+            },
+            "feature": {
+              "type": "minecraft:decorated",
+              "config": {
+                "decorator": {
+                  "type": "minecraft:cave_surface",
+                  "config": {
+                    "surface": "floor",
+                    "floor_to_ceiling_search_range": 30
+                  }
+                },
+                "feature": "wythers:jungle/farm_paddy_pool"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

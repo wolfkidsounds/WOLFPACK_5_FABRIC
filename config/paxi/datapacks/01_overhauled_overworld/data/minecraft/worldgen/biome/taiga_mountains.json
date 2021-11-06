@@ -126,12 +126,7 @@
   "spawn_costs": {},
   "carvers": {
     "air": [
-      "terralith:noodle_ravine",
-      "terralith:flat_cave",
-      "terralith:tall_cave",
-      "minecraft:prototype_cave",
-      "minecraft:prototype_canyon",
-"terralith:big_cave_entrance"
+      "minecraft:cave"
     ]
   },
   "features": [
@@ -143,7 +138,6 @@
       "wythers:taiga/mountain_pools"
     ],
     [
-      "wythers:caves/ore_base_calcite",
       "minecraft:amethyst_geode"
     ],
     [
@@ -152,8 +146,6 @@
     [],
     [],
     [
-      "wythers:caves/ore_base_core_stone",
-      "wythers:caves/ore_base_core_deepslate",
       "wythers:generic/ore_base_diorite",
       "wythers:taiga/replace_dirt_to_gravel",
       "wythers:taiga/mountains_disk_white_terracotta",
@@ -163,25 +155,20 @@
       "wythers:taiga/mountains_lime_terracotta",
       "wythers:taiga/mountains_cyan_terracotta",
       "wythers:taiga/mountains_gray_terracotta",
-      "minecraft:prototype_ore_dirt",
-      "minecraft:prototype_ore_gravel",
-      "minecraft:prototype_ore_granite",
-      "minecraft:prototype_ore_diorite",
-      "minecraft:prototype_ore_andesite",
-      "minecraft:prototype_ore_tuff",
-      "minecraft:prototype_ore_coal_upper",
-      "minecraft:prototype_ore_coal_lower",
-      "minecraft:prototype_ore_iron_upper",
-      "minecraft:prototype_ore_iron_middle",
-      "minecraft:prototype_ore_iron_small",
-      "minecraft:prototype_ore_gold",
-      "minecraft:prototype_ore_redstone",
-      "minecraft:prototype_ore_redstone_lower",
-      "minecraft:prototype_ore_diamond",
-      "minecraft:prototype_ore_diamond_large",
-      "minecraft:prototype_ore_lapis",
-      "minecraft:prototype_ore_lapis_buried",
-      "minecraft:prototype_ore_copper",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "wythers:taiga/mountains_disk_magma",
       "wythers:taiga/mountains_ore_brown_concrete_powder",
       "wythers:taiga/mountains_ore_gray_concrete_powder",
@@ -193,8 +180,7 @@
       "minecraft:rare_small_dripstone"
     ],
     [
-      "wythers:caves/calcite_pool_glow_lichen",
-      "wythers:caves/cnb_calcite_pool",
+      "minecraft:glow_lichen",
       "minecraft:patch_large_fern",
       "wythers:taiga/no_bonemeal_flower_sweet_berry_bush",
       "wythers:taiga/mountains_vegetation",

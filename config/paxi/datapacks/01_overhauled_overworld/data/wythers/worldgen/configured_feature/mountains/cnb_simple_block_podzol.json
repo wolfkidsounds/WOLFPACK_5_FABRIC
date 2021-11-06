@@ -47,7 +47,7 @@
                 },
                 "place_on": [
                   {
-                    "Name": "minecraft:dirt"
+                    "Name": "minecraft:stone"
                   }
                 ],
                 "place_in": [

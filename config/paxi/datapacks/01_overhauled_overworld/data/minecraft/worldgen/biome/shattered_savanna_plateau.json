@@ -21,13 +21,9 @@
   "surface_builder": "wythers:blackstone",
   "carvers": {
     "air": [
-      "terralith:noodle_ravine",
-      "terralith:flat_cave",
-      "terralith:tall_cave",
-      "minecraft:prototype_cave",
-      "minecraft:prototype_canyon",
-"terralith:big_cave_entrance"
-    ]
+      "minecraft:cave"
+    ],
+    "liquid": []
   },
   "starts": [
     "more_structures:village_shattered_savanna_plateau",
@@ -37,7 +33,11 @@
     "minecraft:ruined_portal_nether"
   ],
   "features": [
-    [],
+    [
+      "wythers:caves/volcano_ore_lava_cnb",
+      "wythers:caves/volcano_ore_air_center",
+      "wythers:caves/volcano_ore_air_cnb"
+    ],
     [
       "wythers:savanna/lake_volcanic"
     ],
@@ -47,7 +47,6 @@
     [],
     [
       "wythers:volcanic/ore_basalt",
-      "wythers:caves/volcanic_delta",
       "wythers:savanna/delta_magma",
       "wythers:savanna/delta_black_concrete_powder",
       "wythers:savanna/delta_coarse_dirt",
@@ -56,28 +55,18 @@
     [],
     [
       "wythers:generic/ore_base_basalt",
-      "wythers:generic/ore_base_deepslate_lower",
       "wythers:volcanic/replace_netherrack_to_blackstone",
       "minecraft:ore_magma",
-      "minecraft:prototype_ore_dirt",
-      "minecraft:prototype_ore_gravel",
-      "minecraft:prototype_ore_granite",
-      "minecraft:prototype_ore_diorite",
-      "minecraft:prototype_ore_andesite",
-      "minecraft:prototype_ore_tuff",
-      "minecraft:prototype_ore_coal_upper",
-      "minecraft:prototype_ore_coal_lower",
-      "minecraft:prototype_ore_iron_upper",
-      "minecraft:prototype_ore_iron_middle",
-      "minecraft:prototype_ore_iron_small",
-      "minecraft:prototype_ore_gold",
-      "minecraft:prototype_ore_redstone",
-      "minecraft:prototype_ore_redstone_lower",
-      "minecraft:prototype_ore_diamond",
-      "minecraft:prototype_ore_diamond_large",
-      "minecraft:prototype_ore_lapis",
-      "minecraft:prototype_ore_lapis_buried",
-      "minecraft:prototype_ore_copper",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "wythers:ores/ore_diamond_kimberlites"
     ],
     [
@@ -97,7 +86,6 @@
       "wythers:caves/volcano_simple_air",
       "wythers:caves/volcano_simple_magma",
       "minecraft:freeze_top_layer",
-      "wythers:caves/volcanic_spring_lava",
       "minecraft:spring_lava_double",
       "minecraft:spring_closed_double"
     ]

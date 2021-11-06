@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:vegetation_patch",
+  "config": {
+    "surface": "floor",
+    "depth": 5,
+    "vertical_range": 3,
+    "extra_bottom_block_chance": 0.3,
+    "extra_edge_column_chance": 1,
+    "vegetation_chance": 1,
+    "xz_radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    },
+    "replaceable": "wythers:stone_mountains",
+    "ground_state": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:snow_block",
+        "Properties": {}
+      }
+    },
+    "vegetation_feature": "wythers:mountains/stone_mountains_snow_block"
+  }
+}

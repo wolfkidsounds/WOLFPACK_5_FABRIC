@@ -16,12 +16,7 @@
   "surface_builder": "wythers:sand_beach",
   "carvers": {
     "air": [
-      "terralith:noodle_ravine",
-      "terralith:flat_cave",
-      "terralith:tall_cave",
-      "minecraft:prototype_cave",
-      "minecraft:prototype_canyon",
-"terralith:big_cave_entrance"
+      "minecraft:ocean_cave"
     ],
     "liquid": []
   },
@@ -40,26 +35,20 @@
     [],
     [],
     [
-      "minecraft:prototype_ore_dirt",
-      "minecraft:prototype_ore_gravel",
-      "minecraft:prototype_ore_granite",
-      "minecraft:prototype_ore_diorite",
-      "minecraft:prototype_ore_andesite",
-      "minecraft:prototype_ore_tuff",
-      "minecraft:prototype_ore_coal_upper",
-      "minecraft:prototype_ore_coal_lower",
-      "minecraft:prototype_ore_iron_upper",
-      "minecraft:prototype_ore_iron_middle",
-      "minecraft:prototype_ore_iron_small",
-      "minecraft:prototype_ore_gold",
-      "minecraft:prototype_ore_redstone",
-      "minecraft:prototype_ore_redstone_lower",
-      "minecraft:prototype_ore_diamond",
-      "minecraft:prototype_ore_diamond_large",
-      "minecraft:prototype_ore_lapis",
-      "minecraft:prototype_ore_lapis_buried",
-      "minecraft:prototype_ore_copper",
-      "minecraft:prototype_underwater_magma",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "wythers:beach/replace_coarse_dirt_to_sand"
     ],
     [
@@ -75,16 +64,6 @@
     ],
     [
       "minecraft:freeze_top_layer",
-      "terralith:cave/lush/lush_caves_ceiling_vegetation",
-      "terralith:cave/lush/cave_vines",
-      "terralith:cave/lush/lush_caves_clay",
-      "terralith:cave/lush/lush_caves_vegetation",
-      "terralith:cave/lush/rooted_azalea_trees",
-      "terralith:cave/lush/spore_blossom",
-      "terralith:cave/lush/classic_vines_cave_feature",
-      "terralith:cave/dripstone/large_dripstone",
-      "terralith:cave/dripstone/dripstone_cluster",
-      "terralith:cave/dripstone/small_dripstone",
       "wythers:caves/hanging_roots",
       "wythers:caves/grass_roots"
     ]

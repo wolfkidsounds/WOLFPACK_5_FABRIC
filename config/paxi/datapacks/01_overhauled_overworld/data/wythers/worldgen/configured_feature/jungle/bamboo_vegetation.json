@@ -8,10 +8,23 @@
           "type": "minecraft:decorated",
           "config": {
             "outer": {
-              "type": "minecraft:range",
+              "type": "minecraft:decorated",
               "config": {
-                "height": {
-                  "absolute": 81
+                "outer": {
+                  "type": "minecraft:count_noise_biased",
+                  "config": {
+                    "noise_to_count_ratio": 1,
+                    "noise_factor": 200,
+                    "noise_offset": 0.2
+                  }
+                },
+                "inner": {
+                  "type": "minecraft:range",
+                  "config": {
+                    "height": {
+                      "absolute": 85
+                    }
+                  }
                 }
               }
             },
@@ -19,7 +32,7 @@
               "type": "minecraft:cave_surface",
               "config": {
                 "surface": "floor",
-                "floor_to_ceiling_search_range": 20
+                "floor_to_ceiling_search_range": 25
               }
             }
           }

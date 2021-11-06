@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:count",
+              "config": {
+                "count": 10
+              }
+            },
+            "inner": {
+              "type": "minecraft:square",
+              "config": {}
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "height": {
+                  "type": "minecraft:uniform",
+                  "min_inclusive": {
+                    "absolute": 256
+                  },
+                  "max_inclusive": {
+                    "absolute": 256
+                  }
+                }
+              }
+            },
+            "feature": {
+              "type": "minecraft:decorated",
+              "config": {
+                "decorator": {
+                  "type": "minecraft:cave_surface",
+                  "config": {
+                    "surface": "floor",
+                    "floor_to_ceiling_search_range": 115
+                  }
+                },
+                "feature": "wythers:mushroom_fields/lava_pool"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

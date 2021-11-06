@@ -15,16 +15,23 @@
   "surface_builder": "minecraft:gravelly_mountain",
   "carvers": {
     "air": [
-      "terralith:noodle_ravine",
-      "terralith:flat_cave",
-      "terralith:tall_cave",
-      "minecraft:prototype_cave",
-      "minecraft:prototype_canyon",
-      "minecraft:prototype_crevice"
+      "minecraft:cave",
+      "minecraft:canyon"
     ]
   },
   "features": [
-    [],
+    [
+      "wythers:mountains/gravelly_mountains_andesite_peaks",
+      "wythers:mountains/gravelly_mountains_tuff_peaks",
+      "wythers:mountains/gravelly_mountains_tuff_peaks_offset",
+      "wythers:mountains/gravelly_mountains_snowy_peaks",
+      "wythers:mountains/gravelly_mountains_snowy_peaks_offset",
+      "wythers:mountains/gravelly_mountains_snowy_slopes_130",
+      "wythers:mountains/gravelly_mountains_snowy_slopes_140",
+      "wythers:mountains/gravelly_mountains_snowy_slopes_150",
+      "wythers:mountains/gravelly_mountains_snowy_slopes_160",
+      "wythers:mountains/gravelly_mountains_snowy_slopes_170"
+    ],
     [
       "minecraft:lake_water"
     ],
@@ -35,33 +42,24 @@
       "minecraft:monster_room"
     ],
     [],
-    [
-      "wythers:mountains/ore_powder_snow"
-    ],
+    [],
     [
       "wythers:mountains/replace_ore_dirt_to_gravel",
-      "wythers:mountains/replace_ore_ground_to_packed_ice",
-      "wythers:mountains/replace_ore_ground_to_snow_block",
-      "minecraft:prototype_ore_dirt",
-      "minecraft:prototype_ore_gravel",
-      "minecraft:prototype_ore_granite",
-      "minecraft:prototype_ore_diorite",
-      "minecraft:prototype_ore_andesite",
-      "minecraft:prototype_ore_tuff",
-      "minecraft:prototype_ore_coal_upper",
-      "minecraft:prototype_ore_coal_lower",
-      "minecraft:prototype_ore_iron_upper",
-      "minecraft:prototype_ore_iron_middle",
-      "minecraft:prototype_ore_iron_small",
-      "minecraft:prototype_ore_gold",
-      "minecraft:prototype_ore_redstone",
-      "minecraft:prototype_ore_redstone_lower",
-      "minecraft:prototype_ore_diamond",
-      "minecraft:prototype_ore_diamond_large",
-      "minecraft:prototype_ore_lapis",
-      "minecraft:prototype_ore_lapis_buried",
-      "minecraft:prototype_ore_copper",
-      "minecraft:prototype_underwater_magma",
+      "wythers:mountains/replace_ore_ground_to_diorite",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
@@ -74,7 +72,8 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_mountain",
+      "wythers:taiga/cnb_vegetation_larches",
+      "wythers:taiga/vegetation",
       "wythers:mountains/patch_flowers_single",
       "wythers:mountains/patch_flowers_double",
       "minecraft:patch_grass_savanna",
@@ -82,15 +81,14 @@
       "minecraft:red_mushroom_normal"
     ],
     [
-      "minecraft:freeze_top_layer",
       "wythers:caves/hanging_roots",
       "wythers:caves/grass_roots"
     ]
   ],
   "starts": [
-    "more_structures:village_gravelly_mountains",
-    "more_structures:pillager_outpost_gravelly_mountains",
-    "more_structures:bastion_remnant_gravelly_mountains",
+    "more_structures:village_modified_gravelly_mountains",
+    "more_structures:pillager_outpost_modified_gravelly_mountains",
+    "more_structures:bastion_remnant_modified_gravelly_mountains",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal_mountain"
@@ -190,8 +188,8 @@
   "spawn_costs": {},
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "temperature": 0.2,
+  "temperature": 0.26,
   "downfall": 0.3,
   "category": "extreme_hills",
-  "depth": 1.4
+  "depth": 1.5
 }

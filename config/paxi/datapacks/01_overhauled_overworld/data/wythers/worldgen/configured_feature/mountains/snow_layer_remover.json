@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:decorated",
+      "config": {
+        "outer": {
+          "type": "minecraft:count",
+          "config": {
+            "count": 256
+          }
+        },
+        "inner": {
+          "type": "minecraft:square",
+          "config": {}
+        }
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:range",
+              "config": {
+                "height": {
+                  "absolute": 256
+                }
+              }
+            },
+            "inner": {
+              "type": "minecraft:cave_surface",
+              "config": {
+                "surface": "floor",
+                "floor_to_ceiling_search_range": 151
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:count_extra",
+              "config": {
+                "count": 500,
+                "extra_count": 0,
+                "extra_chance": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:ore",
+              "config": {
+                "size": 64,
+                "discard_chance_on_air_exposure": 0,
+                "targets": [
+                  {
+                    "target": {
+                      "predicate_type": "minecraft:block_match",
+                      "block": "minecraft:snow"
+                    },
+                    "state": {
+                      "Name": "minecraft:air"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

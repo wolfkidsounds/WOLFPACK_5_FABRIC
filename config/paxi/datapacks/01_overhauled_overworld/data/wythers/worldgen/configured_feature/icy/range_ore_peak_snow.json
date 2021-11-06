@@ -2,11 +2,9 @@
   "type": "minecraft:decorated",
   "config": {
     "decorator": {
-      "type": "minecraft:count_extra",
+      "type": "minecraft:count",
       "config": {
-        "count": 30000,
-        "extra_count": 0,
-        "extra_chance": 0
+        "count": 30
       }
     },
     "feature": {
@@ -25,56 +23,25 @@
                 "height": {
                   "type": "minecraft:uniform",
                   "min_inclusive": {
-                    "absolute": 115
+                    "absolute": 250
                   },
                   "max_inclusive": {
-                    "absolute": 174
+                    "absolute": 250
                   }
                 }
               }
             },
             "feature": {
-              "type": "minecraft:simple_block",
+              "type": "minecraft:decorated",
               "config": {
-                "to_place": {
-                  "type": "minecraft:simple_state_provider",
-                  "state": {
-                    "Name": "minecraft:snow_block"
+                "decorator": {
+                  "type": "minecraft:cave_surface",
+                  "config": {
+                    "surface": "floor",
+                    "floor_to_ceiling_search_range": 135
                   }
                 },
-                "place_on": [
-                  {
-                    "Name": "minecraft:deepslate",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
-                  {
-                    "Name": "minecraft:tuff"
-                  },
-                  {
-                    "Name": "minecraft:stone"
-                  }
-                ],
-                "place_in": [
-                  {
-                    "Name": "minecraft:deepslate",
-                    "Properties": {
-                      "axis": "y"
-                    }
-                  },
-                  {
-                    "Name": "minecraft:tuff"
-                  },
-                  {
-                    "Name": "minecraft:stone"
-                  }
-                ],
-                "place_under": [
-                  {
-                    "Name": "minecraft:snow_block"
-                  }
-                ]
+                "feature": "wythers:icy/snowy_mountains_snowy_peaks"
               }
             }
           }
