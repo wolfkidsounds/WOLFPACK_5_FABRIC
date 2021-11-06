@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:bastion_remnant",
+  "config": {
+    "start_pool": "dnl:biomes/wooded_mountains",
+    "size": 7
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "kaisyn:outpost/sparse_jungle/tent",
+  "fallback": "minecraft:empty",
+  "elements": [
+      {
+      "weight": 1,
+      "element": {
+        "location": "kaisyn:outpost/camp/tent_sparse",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

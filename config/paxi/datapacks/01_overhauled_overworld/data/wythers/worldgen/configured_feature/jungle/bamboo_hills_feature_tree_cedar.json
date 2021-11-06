@@ -1,0 +1,81 @@
+{
+  "config": {
+    "decorator": {
+      "type": "decorated",
+      "config": {
+        "outer": {
+          "type": "minecraft:water_depth_threshold",
+          "config": {
+            "max_water_depth": 0
+          }
+        },
+        "inner": {
+          "type": "minecraft:heightmap",
+          "config": {
+            "heightmap": "OCEAN_FLOOR"
+          }
+        }
+      }
+    },
+    "feature": {
+      "type": "minecraft:tree",
+      "config": {
+        "ignore_vines": true,
+        "minimum_size": {
+          "limit": 1,
+          "lower_size": 0,
+          "upper_size": 2,
+          "type": "minecraft:two_layers_feature_size"
+        },
+        "decorators": [],
+        "trunk_provider": {
+          "state": {
+            "Properties": {
+              "axis": "y"
+            },
+            "Name": "minecraft:spruce_log"
+          },
+          "type": "minecraft:simple_state_provider"
+        },
+        "foliage_placer": {
+          "radius": 2,
+          "offset": 0,
+          "type": "minecraft:acacia_foliage_placer"
+        },
+        "trunk_placer": {
+          "base_height": 5,
+          "height_rand_a": 2,
+          "height_rand_b": 5,
+          "type": "minecraft:forking_trunk_placer"
+        },
+        "foliage_provider": {
+          "state": {
+            "Properties": {
+              "persistent": "false",
+              "distance": "7"
+            },
+            "Name": "minecraft:spruce_leaves"
+          },
+          "type": "minecraft:simple_state_provider"
+        },
+        "force_dirt": false,
+        "dirt_provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:dirt"
+          }
+        },
+        "sapling_provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:spruce_sapling",
+            "Properties": {
+              "stage": "0"
+            }
+          }
+        }
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

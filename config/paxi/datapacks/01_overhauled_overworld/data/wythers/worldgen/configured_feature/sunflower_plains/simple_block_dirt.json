@@ -1,0 +1,100 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 5000,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "height": {
+                  "type": "minecraft:uniform",
+                  "min_inclusive": {
+                    "absolute": 63
+                  },
+                  "max_inclusive": {
+                    "absolute": 72
+                  }
+                }
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "type": "minecraft:simple_state_provider",
+                  "state": {
+                    "Name": "minecraft:dirt"
+                  }
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:dirt"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:dirt_path"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:tall_grass",
+                    "Properties": {
+                      "half": "lower"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:pumpkin"
+                  },
+                  {
+                    "Name": "minecraft:hay_block",
+                    "Properties": {
+                      "axis": "z"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:hay_block",
+                    "Properties": {
+                      "axis": "y"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:hay_block",
+                    "Properties": {
+                      "axis": "x"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:sunflower",
+                    "Properties": {
+                      "half": "lower"
+                    }
+                  },
+                  {
+                    "Name": "minecraft:grass"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

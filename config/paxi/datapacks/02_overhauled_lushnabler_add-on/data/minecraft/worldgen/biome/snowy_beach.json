@@ -1,0 +1,199 @@
+{
+  "scale": 0.025,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "sky_color": 13158625,
+    "fog_color": 14474485,
+    "water_color": 4020182,
+    "water_fog_color": 329011,
+    "grass_color": 7805192,
+    "foliage_color": 7805192
+  },
+  "surface_builder": "wythers:gravel_beach",
+  "carvers": {
+    "air": [
+      "minecraft:cave"
+    ]
+  },
+  "features": [
+    [
+      "wythers:beach/disk_coarse_dirt_to_gravel",
+      "minecraft:patch_grass_forest"
+    ],
+    [],
+    [
+            "bettergeodes:amegeode/tiny",
+      "bettergeodes:amegeode/mini",
+      "bettergeodes:amegeode/small",
+      "bettergeodes:amegeode/smallish",
+      "bettergeodes:amegeode/medium",
+      "bettergeodes:amegeode/big",
+      "bettergeodes:amegeode/huge",
+      "bettergeodes:amegeode/massive",
+      
+      "bettergeodes:coppergeode/tiny",
+      "bettergeodes:coppergeode/mini",
+      "bettergeodes:coppergeode/small",
+      "bettergeodes:coppergeode/smallish",
+      "bettergeodes:coppergeode/medium",
+      "bettergeodes:coppergeode/big",
+      "bettergeodes:coppergeode/huge",
+      "bettergeodes:coppergeode/massive",
+
+      "bettergeodes:goldgeode/tiny",
+      "bettergeodes:goldgeode/mini",
+      "bettergeodes:goldgeode/small",
+      "bettergeodes:goldgeode/smallish",
+      "bettergeodes:goldgeode/medium",
+      "bettergeodes:goldgeode/big",
+      "bettergeodes:goldgeode/huge",
+      "bettergeodes:goldgeode/massive",
+
+      "bettergeodes:irongeode/tiny",
+      "bettergeodes:irongeode/mini",
+      "bettergeodes:irongeode/small",
+      "bettergeodes:irongeode/smallish",
+      "bettergeodes:irongeode/medium",
+      "bettergeodes:irongeode/big",
+      "bettergeodes:irongeode/huge",
+      "bettergeodes:irongeode/massive"
+    ],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:icy/replace_terracottas",
+      "wythers:icy/cave_snow_layer",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_tuff",
+      "minecraft:ore_deepslate",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:ore_copper",
+      "wythers:beach/replace_coarse_dirt_to_gravel",
+      "wythers:beach/replace_coarse_dirt_to_gravel"
+    ],
+    [
+      "minecraft:rare_dripstone_cluster",
+      "minecraft:rare_small_dripstone"
+    ],
+    [
+      "minecraft:glow_lichen",
+      "wythers:beach/patch_mossy_cobblestone"
+    ],
+    [
+      "minecraft:freeze_top_layer",
+      "wythers:caves/hanging_roots",
+      "wythers:caves/grass_roots"
+    ]
+  ],
+  "starts": [
+    "more_structures:village_snowy_beach",
+    "more_structures:pillager_outpost_snowy_beach",
+    "more_structures:bastion_remnant_snowy_beach",
+    "minecraft:mineshaft",
+    "minecraft:buried_treasure",
+    "minecraft:shipwreck_beached",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:polar_bear",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [
+      {
+        "type": "minecraft:salmon",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 5
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "temperature": -0.5,
+  "downfall": 0.4,
+  "category": "icy",
+  "depth": 0
+}

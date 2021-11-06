@@ -1,0 +1,24 @@
+{
+  "name": "fusionmc:village/flower_forest/gates",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "fusionmc:village/flower_forest/flower_forest_gate_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 3,
+      "element": {
+        "location": "fusionmc:village/flower_forest/flower_forest_gate_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

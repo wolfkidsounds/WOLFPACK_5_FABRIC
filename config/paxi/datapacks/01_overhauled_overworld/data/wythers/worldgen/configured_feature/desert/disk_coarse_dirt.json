@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 30
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:range",
+              "config": {
+                "height": {
+                  "absolute": 62
+                }
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:disk",
+          "config": {
+            "state": {
+              "Name": "minecraft:coarse_dirt"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "value": {
+                "min_inclusive": 2,
+                "max_inclusive": 6
+              }
+            },
+            "half_height": 1,
+            "targets": [
+              {
+                "Name": "minecraft:sand"
+              },
+              {
+                "Name": "minecraft:smooth_sandstone"
+              },
+              {
+                "Name": "minecraft:red_sand"
+              },
+              {
+                "Name": "minecraft:smooth_red_sandstone"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

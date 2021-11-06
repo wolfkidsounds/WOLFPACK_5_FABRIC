@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:decorated",
+              "config": {
+                "outer": {
+                  "type": "minecraft:range",
+                  "config": {
+                    "height": {
+                      "absolute": 100
+                    }
+                  }
+                },
+                "inner": {
+                  "type": "minecraft:cave_surface",
+                  "config": {
+                    "surface": "floor",
+                    "floor_to_ceiling_search_range": 40
+                  }
+                }
+              }
+            }
+          }
+        },
+        "feature": "wythers:jungle/cnb_bamboo_hills_bamboo"
+      }
+    }
+  }
+}

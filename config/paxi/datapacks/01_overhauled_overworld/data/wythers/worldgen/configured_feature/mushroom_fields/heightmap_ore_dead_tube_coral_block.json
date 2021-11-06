@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 10
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:heightmap",
+              "config": {
+                "heightmap": "MOTION_BLOCKING"
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 15,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:dead_brain_coral_block"
+                },
+                "state": {
+                  "Name": "minecraft:dead_tube_coral_block"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

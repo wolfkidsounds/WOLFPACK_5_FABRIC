@@ -1,0 +1,17 @@
+{
+  "config": {
+    "top_material": {
+      "Properties": {
+        "snowy": "false"
+      },
+      "Name": "minecraft:grass_block"
+    },
+    "under_material": {
+      "Name": "minecraft:tuff"
+    },
+    "underwater_material": {
+      "Name": "minecraft:crimson_nylium"
+    }
+  },
+  "type": "minecraft:nether_forest"
+}

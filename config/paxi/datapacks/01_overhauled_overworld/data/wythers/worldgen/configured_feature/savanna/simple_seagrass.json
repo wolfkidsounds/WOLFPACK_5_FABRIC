@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 64
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:heightmap",
+              "config": {
+                "heightmap": "OCEAN_FLOOR_WG"
+              }
+            },
+            "feature": {
+              "type": "minecraft:simple_block",
+              "config": {
+                "to_place": {
+                  "type": "minecraft:simple_state_provider",
+                  "state": {
+                    "Name": "minecraft:seagrass",
+                    "Properties": {
+                      "waterlogged": "true"
+                    }
+                  }
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:coarse_dirt"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:water",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:air"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

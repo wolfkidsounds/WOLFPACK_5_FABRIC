@@ -1,0 +1,45 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:deep_lukewarm_ocean/feature_tree_cypress_tall",
+                "chance": 0.5
+              }
+            ],
+            "default": "wythers:deep_lukewarm_ocean/feature_tree_cypress"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {
+                "heightmap": "MOTION_BLOCKING"
+              },
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 20,
+        "noise_factor": 130,
+        "noise_offset": -0.3
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

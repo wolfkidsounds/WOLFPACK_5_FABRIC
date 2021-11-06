@@ -1,0 +1,60 @@
+{
+  "name": "kaisyn:village/birch/streets",
+  "fallback": "kaisyn:village/birch/terminators",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "kaisyn:village/birch/streets/corner_1",
+        "processors": "kaisyn:street_gravel"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "kaisyn:village/birch/streets/corner_2",
+        "processors": "kaisyn:street_gravel"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "kaisyn:village/birch/streets/crossroad_x",
+        "processors": "kaisyn:street_gravel"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "kaisyn:village/birch/streets/crossroad_y",
+        "processors": "kaisyn:street_gravel"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "kaisyn:village/birch/streets/straight_1",
+        "processors": "kaisyn:street_gravel"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "kaisyn:village/birch/streets/straight_2",
+        "processors": "kaisyn:street_gravel"
+      }
+    }
+  ]
+}

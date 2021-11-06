@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": -1,
+        "noise_factor": 100,
+        "noise_offset": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:decorated",
+              "config": {
+                "outer": {
+                  "type": "minecraft:chance",
+                  "config": {
+                    "chance": 200
+                  }
+                },
+                "inner": {
+                  "type": "minecraft:square",
+                  "config": {}
+                }
+              }
+            },
+            "inner": {
+              "type": "minecraft:heightmap",
+              "config": {
+                "heightmap": "MOTION_BLOCKING"
+              }
+            }
+          }
+        },
+        "feature": "wythers:sunflower_plains/feature_tree_giant_dark_oak"
+      }
+    }
+  }
+}

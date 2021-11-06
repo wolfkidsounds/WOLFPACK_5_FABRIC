@@ -1,0 +1,42 @@
+{
+  "name": "fusionmc:village/flower_forest/terminators",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "fusionmc:village/flower_forest/terminators/terminator_01",
+        "processors": "fusionmc:street_flower_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "fusionmc:village/flower_forest/terminators/terminator_02",
+        "processors": "fusionmc:street_flower_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "fusionmc:village/flower_forest/terminators/terminator_03",
+        "processors": "fusionmc:street_flower_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "fusionmc:village/flower_forest/terminators/terminator_04",
+        "processors": "fusionmc:street_flower_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

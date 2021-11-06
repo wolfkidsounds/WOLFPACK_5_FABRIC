@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 20
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:range",
+              "config": {
+                "height": {
+                  "type": "minecraft:uniform",
+                  "min_inclusive": {
+                    "absolute": 70
+                  },
+                  "max_inclusive": {
+                    "absolute": 169
+                  }
+                }
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 50,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "minecraft:block_match",
+                  "block": "minecraft:grass_block"
+                },
+                "state": {
+                  "Name": "minecraft:calcite"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

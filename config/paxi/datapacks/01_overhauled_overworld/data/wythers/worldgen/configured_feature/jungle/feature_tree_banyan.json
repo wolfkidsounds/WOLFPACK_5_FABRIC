@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 5
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          "wythers:jungle/tree_component/banyan_tree_branches_high",
+          "wythers:jungle/tree_component/banyan_tree_branches_high",
+          "wythers:jungle/tree_component/banyan_tree_branches",
+          "wythers:jungle/tree_component/banyan_tree_trunk",
+          "wythers:jungle/tree_component/banyan_tree_trunk"
+        ]
+      }
+    }
+  }
+}

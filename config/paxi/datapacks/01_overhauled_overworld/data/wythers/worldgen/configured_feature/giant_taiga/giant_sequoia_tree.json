@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:chance",
+      "config": {
+        "chance": 100
+      }
+    },
+    "feature": "wythers:giant_taiga/feature_tree_giant_sequoia"
+  }
+}

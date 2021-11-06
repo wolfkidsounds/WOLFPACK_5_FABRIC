@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": -200,
+        "noise_factor": 200,
+        "noise_offset": 0.1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:heightmap",
+              "config": {
+                "heightmap": "OCEAN_FLOOR_WG"
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:disk",
+          "config": {
+            "state": {
+              "Name": "minecraft:sand"
+            },
+            "radius": {
+              "type": "minecraft:uniform",
+              "value": {
+                "min_inclusive": 2,
+                "max_inclusive": 5
+              }
+            },
+            "half_height": 1,
+            "targets": [
+              {
+                "Name": "minecraft:podzol",
+                "Properties": {
+                  "snowy": "false"
+                }
+              },
+              {
+                "Name": "minecraft:grass_block",
+                "Properties": {
+                  "snowy": "false"
+                }
+              },
+              {
+                "Name": "minecraft:dirt"
+              },
+              {
+                "Name": "minecraft:coarse_dirt"
+              },
+              {
+                "Name": "minecraft:gravel"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

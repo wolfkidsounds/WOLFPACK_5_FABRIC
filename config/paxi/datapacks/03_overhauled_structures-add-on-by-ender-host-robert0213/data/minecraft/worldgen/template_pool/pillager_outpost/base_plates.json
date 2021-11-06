@@ -1,0 +1,24 @@
+{
+  "name": "minecraft:pillager_outpost/base_plates",
+  "fallback": "prototypedungeons:corridor_top",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "minecraft:pillager_outpost/base_plate",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "prototypedungeons:castle_parts/corridor_top_part1",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

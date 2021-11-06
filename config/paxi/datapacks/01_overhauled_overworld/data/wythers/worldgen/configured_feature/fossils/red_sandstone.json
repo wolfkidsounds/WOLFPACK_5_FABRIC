@@ -1,0 +1,29 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "fossil_processors": "minecraft:empty",
+        "overlay_processors": "minecraft:empty",
+        "max_empty_corners_allowed": 4,
+        "fossil_structures": [
+          "wythers:fossil/red_sandstone_iceberg_1",
+          "wythers:fossil/red_sandstone_iceberg_2",
+          "wythers:fossil/red_sandstone_iceberg_3"
+        ],
+        "overlay_structures": [
+          "wythers:fossil/red_sandstone_iceberg_1",
+          "wythers:fossil/red_sandstone_iceberg_2",
+          "wythers:fossil/red_sandstone_iceberg_3"
+        ]
+      },
+      "type": "minecraft:fossil"
+    },
+    "decorator": {
+      "config": {
+        "chance": 64
+      },
+      "type": "minecraft:chance"
+    }
+  },
+  "type": "minecraft:decorated"
+}

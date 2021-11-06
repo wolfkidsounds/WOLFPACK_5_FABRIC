@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:heightmap",
+          "config": {
+            "heightmap": "MOTION_BLOCKING"
+          }
+        },
+        "feature": {
+          "type": "minecraft:simple_random_selector",
+          "config": {
+            "features": [
+              "wythers:savanna/feature_tree_baobab_bloated_short_dry"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

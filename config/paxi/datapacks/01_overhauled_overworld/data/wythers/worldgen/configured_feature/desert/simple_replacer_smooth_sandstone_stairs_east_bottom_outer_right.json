@@ -1,0 +1,84 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 1,
+        "noise_factor": 1000,
+        "noise_offset": -0.4
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_extra",
+          "config": {
+            "count": 50000,
+            "extra_count": 0,
+            "extra_chance": 0
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "feature": {
+              "type": "minecraft:decorated",
+              "config": {
+                "decorator": {
+                  "type": "minecraft:range",
+                  "config": {
+                    "height": {
+                      "type": "minecraft:uniform",
+                      "min_inclusive": {
+                        "absolute": 63
+                      },
+                      "max_inclusive": {
+                        "absolute": 103
+                      }
+                    }
+                  }
+                },
+                "feature": {
+                  "type": "minecraft:simple_block",
+                  "config": {
+                    "to_place": {
+                      "type": "minecraft:simple_state_provider",
+                      "state": {
+                        "Name": "minecraft:smooth_red_sandstone_stairs",
+                        "Properties": {
+                          "facing": "east",
+                          "half": "bottom",
+                          "shape": "outer_right",
+                          "waterlogged": "false"
+                        }
+                      }
+                    },
+                    "place_on": [],
+                    "place_in": [
+                      {
+                        "Name": "minecraft:smooth_sandstone_stairs",
+                        "Properties": {
+                          "facing": "east",
+                          "half": "bottom",
+                          "shape": "outer_right",
+                          "waterlogged": "false"
+                        }
+                      }
+                    ],
+                    "place_under": []
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

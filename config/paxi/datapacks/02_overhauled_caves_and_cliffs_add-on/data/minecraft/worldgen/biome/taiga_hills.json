@@ -1,0 +1,216 @@
+{
+  "surface_builder": "wythers:rocky_mountains",
+  "depth": 0.45,
+  "scale": 0.3,
+  "temperature": 0.25,
+  "downfall": 0.8,
+  "precipitation": "rain",
+  "category": "taiga",
+  "player_spawn_friendly": true,
+  "effects": {
+    "sky_color": 8233983,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "foliage_color": 16762943,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    }
+  },
+  "starts": [
+    "more_structures:village_taiga_hills",
+    "more_structures:pillager_outpost_taiga_hills",
+    "more_structures:bastion_remnant_taiga_hills",
+    "minecraft:mineshaft",
+    "minecraft:stronghold",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [
+      {
+        "type": "minecraft:chicken",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:wolf",
+        "weight": 8,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:rabbit",
+        "weight": 4,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:fox",
+        "weight": 8,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [
+      {
+        "type": "minecraft:salmon",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 5
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:prototype_cave",
+      "minecraft:prototype_canyon",
+      "minecraft:prototype_crevice"
+    ]
+  },
+  "features": [
+    [
+      "wythers:generic/feature_fallen_spruce_x",
+      "wythers:generic/feature_fallen_spruce_z"
+    ],
+    [],
+    [
+      "minecraft:amethyst_geode",
+      "wythers:caves/cnb_dripstone_caves_large_dripstone"
+    ],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:mountains/patch_stone",
+      "minecraft:prototype_ore_dirt",
+      "minecraft:prototype_ore_gravel",
+      "minecraft:prototype_ore_granite",
+      "minecraft:prototype_ore_diorite",
+      "minecraft:prototype_ore_andesite",
+      "minecraft:prototype_ore_tuff",
+      "minecraft:prototype_ore_coal_upper",
+      "minecraft:prototype_ore_coal_lower",
+      "minecraft:prototype_ore_iron_upper",
+      "minecraft:prototype_ore_iron_middle",
+      "minecraft:prototype_ore_iron_small",
+      "minecraft:prototype_ore_gold",
+      "minecraft:prototype_ore_redstone",
+      "minecraft:prototype_ore_redstone_lower",
+      "minecraft:prototype_ore_diamond",
+      "minecraft:prototype_ore_diamond_large",
+      "minecraft:prototype_ore_lapis",
+      "minecraft:prototype_ore_lapis_buried",
+      "minecraft:prototype_ore_copper",
+      "minecraft:prototype_underwater_magma",
+      "wythers:generic/disk_gravel_beach",
+      "wythers:generic/disk_clay"
+    ],
+    [
+      "minecraft:rare_dripstone_cluster",
+      "minecraft:rare_small_dripstone",
+      "wythers:caves/cnb_dripstone_caves_dripstone_cluster",
+      "wythers:caves/cnb_dripstone_caves_small_dripstone"
+    ],
+    [
+      "minecraft:glow_lichen",
+      "wythers:caves/cnb_simple_kelp_bottom",
+      "wythers:caves/cnb_simple_kelp_middle",
+      "wythers:caves/cnb_simple_kelp_top",
+      "wythers:caves/cnb_simple_seagrass",
+      "wythers:caves/cnb_simple_sea_pickles",
+      "wythers:caves/cnb_mushroom_caves",
+      "wythers:caves/cnb_mushroom_caves_simple_mushrooms",
+      "wythers:caves/cnb_lush_caves_ceiling_vegetation",
+      "wythers:caves/cnb_lush_caves_cave_vines",
+      "wythers:caves/cnb_lush_caves_clay",
+      "wythers:caves/cnb_lush_caves_vegetation",
+      "wythers:caves/cnb_lush_caves_classic_vines",
+      "minecraft:patch_large_fern",
+      "wythers:taiga/no_bonemeal_flower_sweet_berry_bush",
+      "wythers:taiga/hills_vegetation",
+      "wythers:taiga/patch_flowers_single",
+      "wythers:taiga/patch_flowers_double",
+      "minecraft:patch_grass_savanna",
+      "minecraft:patch_grass_jungle",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:red_mushroom_taiga",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:patch_pumpkin",
+      "minecraft:spring_water"
+    ],
+    [
+      "minecraft:freeze_top_layer",
+      "wythers:caves/hanging_roots",
+      "wythers:caves/grass_roots",
+      "wythers:caves/simple_glow_lichen_underside"
+    ]
+  ]
+}

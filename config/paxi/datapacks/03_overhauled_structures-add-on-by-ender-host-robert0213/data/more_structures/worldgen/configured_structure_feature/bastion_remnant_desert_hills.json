@@ -1,0 +1,7 @@
+{
+  "config": {
+    "start_pool": "bone_dungeons:dungeon",
+    "size": 7
+  },
+  "type": "minecraft:bastion_remnant"
+}

@@ -1,0 +1,7 @@
+{
+  "config": {
+    "start_pool": "fusionmc:village/flower_forest/town_centers",
+    "size": 5
+  },
+  "type": "minecraft:village"
+}

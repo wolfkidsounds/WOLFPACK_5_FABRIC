@@ -1,0 +1,15 @@
+{
+  "name": "kaisyn:village/island/town_centre",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "kaisyn:village/island/town_centre/chiefs_house_1",
+        "processors": "kaisyn:big_ass_processor"
+      }
+    }
+  ]
+}

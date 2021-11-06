@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "kaisyn:village/island/town_centre",
+    "size": 5
+  }
+}
