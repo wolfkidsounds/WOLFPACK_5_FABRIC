@@ -174,27 +174,27 @@
     "maxInput": 128
   },
   "chopperMk1": {
-    "energyCost": 16,
-    "processSpeed": 50.0,
+    "energyCost": 4,
+    "processSpeed": 40.0,
     "maxEnergyStored": 1000,
     "maxInput": 64
   },
   "chopperMk2": {
-    "energyCost": 32,
-    "processSpeed": 40.0,
-    "maxEnergyStored": 5000,
+    "energyCost": 8,
+    "processSpeed": 20.0,
+    "maxEnergyStored": 2000,
     "maxInput": 128
   },
   "chopperMk3": {
-    "energyCost": 64,
-    "processSpeed": 30.0,
-    "maxEnergyStored": 25000,
+    "energyCost": 16,
+    "processSpeed": 10.0,
+    "maxEnergyStored": 4000,
     "maxInput": 512
   },
   "chopperMk4": {
-    "energyCost": 128,
-    "processSpeed": 20.0,
-    "maxEnergyStored": 50000,
+    "energyCost": 32,
+    "processSpeed": 5.0,
+    "maxEnergyStored": 8000,
     "maxInput": 4096
   },
   "farmerMk1": {
