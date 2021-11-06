@@ -1,42 +1,42 @@
 {
   "coalGenerator": {
-    "ratio": 16.0,
+    "ratio": 32.0,
     "temperatureBoost": 1.5,
     "maxEnergyStored": 1000,
     "maxOutput": 64
   },
   "solarGeneratorMk1": {
-    "ratio": 8.0,
+    "ratio": 16.0,
     "temperatureBoost": 1.5,
     "maxEnergyStored": 500,
     "maxOutput": 64
   },
   "solarGeneratorMk3": {
-    "ratio": 12.0,
+    "ratio": 32.0,
     "temperatureBoost": 1.5,
     "maxEnergyStored": 1500,
     "maxOutput": 512
   },
   "heatGenerator": {
-    "ratio": 128.0,
+    "ratio": 512.0,
     "temperatureBoost": -1.0,
     "maxEnergyStored": 10000,
     "maxOutput": 4096
   },
   "gasGenerator": {
-    "ratio": 1.0,
+    "ratio": 4.0,
     "temperatureBoost": 1.5,
     "maxEnergyStored": 10000,
     "maxOutput": 4096
   },
   "biomassGenerator": {
-    "ratio": 64.0,
+    "ratio": 256.0,
     "temperatureBoost": 1.5,
     "maxEnergyStored": 10000,
     "maxOutput": 512
   },
   "steamTurbine": {
-    "ratio": 4.0,
+    "ratio": 8.0,
     "temperatureBoost": -1.0,
     "maxEnergyStored": 20000,
     "maxOutput": 4096
