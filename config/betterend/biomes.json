@@ -1,7 +1,8 @@
 {
   "minecraft": {
     "the_end": {
-      "enabled [default: true]": true
+      "enabled [default: true]": true,
+      "hasCaves [default: true]": true
     },
     "end_midlands": {
       "enabled [default: true]": true
