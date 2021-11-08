@@ -1,7 +1,0 @@
-{
-  "type": "minecraft:bastion_remnant",
-  "config": {
-    "start_pool": "dnl:biomes/giant_tree_taiga",
-    "size": 7
-  }
-}

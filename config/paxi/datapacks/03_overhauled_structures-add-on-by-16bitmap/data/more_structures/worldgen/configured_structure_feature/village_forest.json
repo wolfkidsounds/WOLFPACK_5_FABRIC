@@ -1,7 +1,0 @@
-{
-  "config": {
-    "start_pool": "16bit:treehouse",
-    "size": 7
-  },
-  "type": "minecraft:village"
-}

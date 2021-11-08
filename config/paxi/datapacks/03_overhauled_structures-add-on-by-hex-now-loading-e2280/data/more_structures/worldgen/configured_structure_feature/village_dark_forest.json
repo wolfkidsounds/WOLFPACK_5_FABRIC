@@ -1,7 +1,0 @@
-{
-  "type": "minecraft:village",
-  "config": {
-    "start_pool": "dnl:biomes/dark_forest",
-    "size": 7
-  }
-}
