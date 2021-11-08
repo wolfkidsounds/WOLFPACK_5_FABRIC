@@ -95,4 +95,18 @@ events.listen("kjsextras_rei", event => {
 	event.remove('appliedenergistics2:nether_quartz_boots')
 
 	event.remove('indrev:gamer_axe')
+
+	event.remove('betternether:cincinnasite_pickaxe')
+	event.remove('betternether:cincinnasite_pickaxe_diamond')
+	event.remove('betternether:nether_ruby_pickaxe')
+	event.remove('betternether:cincinnasite_axe')
+	event.remove('betternether:cincinnasite_axe_diamond')
+	event.remove('betternether:nether_ruby_axe')
+	event.remove('betternether:cincinnasite_hoe')
+	event.remove('betternether:cincinnasite_hoe_diamond')
+	event.remove('betternether:nether_ruby_hoe')
+	event.remove('betternether:cincinnasite_shovel')
+	event.remove('betternether:cincinnasite_shovel_diamond')
+	event.remove('betternether:nether_ruby_shovel') 
+	event.remove('betternether:cincinnasite_shears')
 });

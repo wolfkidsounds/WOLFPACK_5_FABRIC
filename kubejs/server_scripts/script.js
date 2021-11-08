@@ -100,6 +100,23 @@ onEvent('recipes', event => {
 	event.remove({output: 'appliedenergistics2:nether_quartz_boots'})
 
 	event.remove({output: 'indrev:gamer_axe'})
+
+	event.remove({output: 'betternether:cincinnasite_pickaxe'})
+
+	event.remove({output: 'betternether:cincinnasite_pickaxe'})
+	event.remove({output: 'betternether:cincinnasite_pickaxe_diamond'})
+	event.remove({output: 'betternether:nether_ruby_pickaxe'})
+	event.remove({output: 'betternether:cincinnasite_axe'})
+	event.remove({output: 'betternether:cincinnasite_axe_diamond'})
+	event.remove({output: 'betternether:nether_ruby_axe'})
+	event.remove({output: 'betternether:cincinnasite_hoe'})
+	event.remove({output: 'betternether:cincinnasite_hoe_diamond'})
+	event.remove({output: 'betternether:nether_ruby_hoe'})
+	event.remove({output: 'betternether:cincinnasite_shovel'})
+	event.remove({output: 'betternether:cincinnasite_shovel_diamond'})
+	event.remove({output: 'betternether:nether_ruby_shovel'}) 
+	event.remove({output: 'betternether:cincinnasite_shears'})
+	
 })
 
 onEvent('item.tags', event => {
