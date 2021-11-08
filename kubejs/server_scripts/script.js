@@ -98,6 +98,8 @@ onEvent('recipes', event => {
 
 	event.remove({output: 'appliedenergistics2:certus_quartz_boots'})
 	event.remove({output: 'appliedenergistics2:nether_quartz_boots'})
+
+	event.remove({output: 'indrev:gamer_axe'})
 })
 
 onEvent('item.tags', event => {
