@@ -21,7 +21,7 @@
   },
   "blockSleeping": true,
   "spawnCategoryMultiplier": {
-    "monster": 3.0
+    "monster": 4.0
   },
   "lunarSpawnSettings": {
     "useBiomeSpawnSettings": true,
@@ -45,7 +45,7 @@
       "moonTextureColor": "ff0000",
       "moonTextureBlendStrength": 0.6
     },
-    "moonSize": 20.0,
+    "moonSize": 40.0,
     "moonTextureLocation": "minecraft:textures/environment/moon_phases.png",
     "soundTrack": "enhancedcelestials:blood_moon",
     "type": "enhancedcelestials:default"

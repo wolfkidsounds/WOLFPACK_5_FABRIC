@@ -5,10 +5,8 @@
 		"minecraft:redstone_ore",
 		"minecraft:redstone_block",
 		"minecraft:deepslate_redstone_ore",
-
 		"minecraft:piston",
 		"minecraft:sticky_piston",
-
 		"minecraft:dark_prismarine",
 		"minecraft:dark_prismarine_slab",
 		"minecraft:dark_prismarine_stairs",
@@ -20,7 +18,6 @@
 		"minecraft:prismarine_stairs",
 		"minecraft:prismarine_wall",
 		"minecraft:magma_block",
-
 		"universal_ores:granite_redstone_ore",
 		"universal_ores:diorite_redstone_ore",
 		"universal_ores:tuff_redstone_ore",

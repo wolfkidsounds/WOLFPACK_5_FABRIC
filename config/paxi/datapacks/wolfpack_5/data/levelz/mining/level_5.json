@@ -3,13 +3,10 @@
     "level": 5,
     "block": [
         "minecraft:bone_block",
-
         "minecraft:sea_lantern",
-
         "minecraft:blue_ice",
 		"minecraft:ice",
 		"minecraft:packed_ice",
-
         "indrev:tin_ore",
         "indrev:deepslate_tin_ore"
     ]
