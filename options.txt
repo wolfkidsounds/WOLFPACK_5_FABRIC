@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/§eArmorstands-Reimagined§8-[v1.1].zip","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","continuity/glass_pane_culling_fix","file/Clear_Glass_Pack_1.17.zip","file/BetterEnderDragon-1.17.x.zip","file/Stay_True_1.17_mod.zip","kubejs:resource_pack","file/FreshAnimations_v1.4.1_mod.zip"]
+resourcePacks:["vanilla","Fabric Mods","linkedstorage/enderstorage","charmonium/journeyman","Black Icons","file/§6French§0⠀§6Fonts§0⠀§8(1.17.1-1.18+).zip","file/sconces.zip","fabric-copper-golem/copper_golem","file/xali\u0027s Enchanted Books v0.8.zip","file/EnderEyes_v2.zip","file/Enchanted Tools v2.5.zip","file/Enchanted Weapons v2.1.zip","continuity/glass_pane_culling_fix","file/Clear_Glass_Pack_1.17.zip","file/BetterEnderDragon-1.17.x.zip","file/Stay_True_1.17_mod.zip","kubejs:resource_pack","file/FreshAnimations_v1.4.1_mod.zip"]
 incompatibleResourcePacks:["kubejs:resource_pack"]
 lastServer:
 lang:en_us
@@ -103,6 +103,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.guild.quest_screen:key.keyboard.j
 key_key.adventurez.activatearmor:key.keyboard.unknown
 key_key.adventurez.dragonflydown:key.keyboard.unknown
 key_key.adventurez.dragonfirebreath:key.keyboard.unknown
