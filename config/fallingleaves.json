@@ -76,6 +76,114 @@
     "minecraft:spruce_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": true
+    },
+    "croptopia:cinnamon_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:nectarine_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:pecan_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:plum_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:cherry_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:lemon_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:avocado_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:kumquat_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:coconut_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:mango_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:dragonfruit_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:banana_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:cashew_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:persimmon_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:date_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:starfruit_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:nutmeg_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:almond_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:walnut_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:apple_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:orange_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:apricot_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:pear_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:grapefruit_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:peach_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:fig_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "croptopia:lime_crop": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }
