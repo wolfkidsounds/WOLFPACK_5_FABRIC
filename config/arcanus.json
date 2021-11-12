@@ -1,6 +1,6 @@
 {
   "doLecternProcessor": true,
-  "doBookshelfProcessor": true,
+  "doBookshelfProcessor": false,
   "strongholdsHaveBooks": true,
   "ruinedPortalsHaveBooks": true,
   "haveBurnout": true,
