@@ -4,7 +4,6 @@
 	"block": [
 		"minecraft:respawn_anchor",
 		"minecraft:netherite_block",
-
 		"minecraft:end_stone",
 		"minecraft:end_stone_brick_slab",
 		"minecraft:end_stone_brick_stairs",
@@ -17,7 +16,6 @@
 		"minecraft:end_rod",
 		"minecraft:chorus_flower",
 		"minecraft:chorus_plant",
-
 		"betterend:ender_ore",
 		"betterend:amber_ore",
 		"Betterend:thallasium_ore"

@@ -19,12 +19,10 @@
 		"minecraft:terracotta",
 		"minecraft:white_terracotta",
 		"minecraft:yellow_terracotta",
-
 		"minecraft:cobblestone",
         "minecraft:cobblestone_slab",
         "minecraft:cobblestone_stairs",
         "minecraft:cobblestone_wall",
-
 		"minecraft:stone",
 		"minecraft:stone_brick_slab",
         "minecraft:stone_brick_stairs",
@@ -34,7 +32,6 @@
         "minecraft:stone_pressure_plate",
         "minecraft:stone_slab",
         "minecraft:stone_stairs",
-
 		"minecraft:coal_ore",
         "minecraft:coal_block",
         "minecraft:deepslate_coal_ore",

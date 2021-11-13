@@ -5,12 +5,10 @@
         "minecraft:emerald_ore",
         "minecraft:emerald_block",
         "minecraft:deepslate_emerald_ore",
-
         "universal_ores:granite_emerald_ore",
 		"universal_ores:diorite_emerald_ore",
 		"universal_ores:tuff_emerald_ore",
 		"universal_ores:andesite_emerald_ore",
-
         "appliedenergistics2:quartz_ore",
         "appliedenergistics2:deepslate_quartz_ore"
     ]
