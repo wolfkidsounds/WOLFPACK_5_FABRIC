@@ -1,0 +1,28 @@
+Vanilla Tweaks Resource Pack
+Version: 1.17
+Packs:
+	AlternateBlockDestruction
+	SidewaysNuggets
+	BrownLeather
+	BetterParticles
+	EndlessEndRods
+	FlintTippedArrows
+	HorizontalWorldBorder
+	PhantomElytra
+	CircularSunandMoon
+	LowerPaths
+	QuieterRain
+	QuieterDispensersDroppers
+	QuieterMinecarts
+	QuieterFire
+	QuieterNetherPortals
+	QuieterWater
+	QuieterEndermen
+	Age25Kelp
+	GroovyLevers
+	CompassLodestone
+	VisualHoney
+	ArabicNumerals
+	3DLadders
+	3DStonecutters
+	PingColorIndicator
