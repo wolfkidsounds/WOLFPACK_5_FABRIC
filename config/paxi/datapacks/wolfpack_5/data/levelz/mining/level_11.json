@@ -1,0 +1,9 @@
+{
+	"replace": true,
+	"level": 11,
+	"block": [
+		"minecraft:small_amethyst_bud",
+		"minecraft:tuff",
+		"minecraft:calcite"
+	]
+}
