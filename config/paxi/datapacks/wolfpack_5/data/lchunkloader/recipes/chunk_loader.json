@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/#",
+        "#E#",
+        "QQQ"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_pearl"
+        },
+        "/": {
+            "item": "minecraft:soul_torch"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "Q": {
+            "item": "indrev:iron_plate"
+        }
+    },
+    "result": {
+        "item": "lchunkloader:chunk_loader",
+        "count": 1
+    }
+}
