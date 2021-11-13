@@ -1,0 +1,44 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 8, 2021, 2:43:48 PM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- indrev:molten_netherite_still
+- indrev:molten_netherite_flowing
+- indrev:molten_iron_still
+- indrev:molten_iron_flowing
+- indrev:molten_copper_still
+- indrev:molten_copper_flowing
+- indrev:molten_gold_still
+- indrev:molten_gold_flowing
+- indrev:molten_tin_still
+- indrev:molten_tin_flowing
+- indrev:molten_lead_still
+- indrev:molten_lead_flowing
+- indrev:molten_silver_still
+- indrev:molten_silver_flowing
+
+#appliedenergistics2:blacklisted/annihilation_plane
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- indrev:coolant_still
+- indrev:coolant_flowing
+- indrev:sulfuric_acid_still
+- indrev:sulfuric_acid_flowing
+- indrev:toxic_mud_still
+- indrev:toxic_mud_flowing
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+- minecraft:water
+
+#c:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#appliedenergistics2:blacklisted/fluid_annihilation_plane
+
+#earthtojavamobs:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
