@@ -1,5 +1,8 @@
 {
   "modules": {
+    "megane-kibe": {
+      "badasintended.megane.impl.Kibe": true
+    },
     "megane-team-reborn-energy": {
       "badasintended.megane.impl.TeamRebornEnergy": true,
       "badasintended.megane.impl.LegacyTeamRebornEnergy": true

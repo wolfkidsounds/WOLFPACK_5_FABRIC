@@ -1,8 +1,0 @@
-Vanilla Tweaks Crafting Tweaks
-Version: 1.17
-Packs:
-	charcoal to black dye
-	coal to black dye
-	more trapdoors
-	more bark
-	more stairs
