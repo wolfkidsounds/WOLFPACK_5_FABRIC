@@ -1,9 +1,0 @@
-{
-	"replace": true,
-	"level": 16,
-	"block": [
-		"minecraft:obsidian",
-		"minecraft:crying_obsidian",
-		"minecraft:ancient_debris"
-	]
-}
