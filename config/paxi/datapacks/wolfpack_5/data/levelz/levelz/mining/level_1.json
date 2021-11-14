@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "level": 1,
+    "block": [
+        "minecraft:clay",
+        "minecraft:sand"
+    ]
+}
