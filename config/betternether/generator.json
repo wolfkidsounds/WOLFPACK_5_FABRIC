@@ -66,6 +66,12 @@
         "flooded_deltas_chance[def: 1.0]": 1.0,
         "old_swampland_chance[def: 1.0]": 1.0
       }
+    },
+    "mining_dims": {
+      "main": {
+        "new_basalt_deltas_chance[def: 1.0]": 1.0,
+        "new_nether_wastes_chance[def: 1.0]": 1.0
+      }
     }
   }
 }
