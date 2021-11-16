@@ -169,5 +169,10 @@
       "edge_size [default: 32]": 32,
       "enabled [default: true]": true
     }
+  },
+  "minecraft": {
+    "the_end": {
+      "hasCaves [default: true]": true
+    }
   }
 }
