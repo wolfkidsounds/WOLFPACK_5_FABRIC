@@ -1,0 +1,60 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = #000000
+}
+
+customization {
+  visible = false
+  x = 1
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  y = -31
+}
+
+customization {
+  path = config/paxi/resourcepacks/wolfkid_wb.png
+  orientation = top-centered
+  x = -2
+  width = 261
+  action = addtexture
+  actionid = b9025910-b502-499f-843c-07c9ddbaee381637085465184
+  y = 74
+  height = 261
+}
+
+customization {
+  orientation = mid-centered
+  basecolor = #ffffff
+  shadow = true
+  rotation = 0.0
+  x = 0
+  actionid = 3e921adf-0bf8-40fb-97a2-fc9fc4739ec01637086030771
+  action = addsplash
+  y = 137
+  scale = 1.0
+  refresh = false
+  text = %playername%
+  bouncing = true
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = 82c8a1a5-2ad3-4963-a5d1-51adb2f943201637086470267
+  y = 50
+  scale = 4.0
+  alignment = left
+  value = WOLFPACK 5
+}
+
