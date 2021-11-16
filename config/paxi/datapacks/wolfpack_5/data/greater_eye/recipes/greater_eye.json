@@ -1,0 +1,42 @@
+
+{
+  "type": "crafting_shaped",
+  "pattern": [
+      "ABC",
+      "DIF",
+      "GHE"
+  ],
+  "key": {
+      "A": {
+          "item": "endrem:black_eye"
+      },
+      "B": {
+          "item": "endrem:lost_eye"
+      },
+      "C": {
+          "item": "endrem:rogue_eye"
+      },
+      "D": {
+          "item": "endrem:witch_eye"
+      },
+      "E": {
+          "item": "endrem:magical_eye"
+      },
+      "F": {
+          "item": "endrem:old_eye"
+      },
+      "G": {
+          "item": "endrem:corrputed_eye"
+      },
+      "H": {
+          "item": "endrem:cold_eye"
+      },
+      "I": {
+          "item": "minecraft:ender_eye"
+      }
+  },
+  "result": {
+      "item": "greater_eye:greater_eye",
+      "count": 1
+  }
+}
