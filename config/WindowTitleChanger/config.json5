@@ -7,7 +7,7 @@
 	   This is what window title will say.
 	   You can add '{version}' to display your minecraft version.
 	*/
-	"windowTitle": "WOLFPACK - 0.2.11",
+	"windowTitle": "WOLFPACK 5",
 	/* 
 	   Should window icon be changed?
 	   REMEMBER! You have to provide both 16x16 and 32x32 icon in .png format!
@@ -17,6 +17,6 @@
 	   Here you may provide names of your icons relative to icons directory in WTC's config folder
 	   REMEMBER! You have to provide both 16x16 and 32x32 icon in .png format!
 	*/
-	"icon16x16": "",
-	"icon32x32": ""
+	"icon16x16": "server-icon_16",
+	"icon32x32": "server-icon_32"
 }
