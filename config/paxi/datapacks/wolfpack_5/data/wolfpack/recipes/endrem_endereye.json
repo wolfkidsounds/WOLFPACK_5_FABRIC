@@ -1,0 +1,47 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      [
+        {
+          "item": "endrem:black_eye"
+        },
+        {
+            "item": "endrem:cold_eye"
+        },
+        {
+            "item": "endrem:corrupted_eye"
+        },
+        {
+            "item": "endrem:lost_eye"
+        },
+        {
+            "item": "endrem:nether_eye"
+        },
+        {
+            "item": "endrem:old_eye"
+        },
+        {
+            "item": "endrem:rogue_eye"
+        },
+        {
+            "item": "endrem:guardian_eye"
+        },
+        {
+            "item": "endrem:magical_eye"
+        },
+        {
+            "item": "endrem:witch_eye"
+        },
+        {
+            "item": "endrem:wither_eye"
+        },
+        {
+            "item": "endrem:end_crystal_eye"
+        }
+      ]
+    ],
+    "result": {
+      "item": "minecraft:ender_eye",
+      "count": 1
+    }
+  }
