@@ -8,7 +8,7 @@
 	// Ignore named creatures and monsters
 	"ignoreNamed": true,
 	// Enable Glowing Elite/Ultra/Eldritch Mobs upon discovery
-	"turnOnGlowingMobs": false,
+	"turnOnGlowingMobs": true,
 	// Out of 100 Mobs
 	"EliteSpawnRates": 1.0,
 	// Out of 100 Elites
@@ -16,7 +16,7 @@
 	// Out of 100 Ultras
 	"EldritchSpawnRates": 1.0,
 	"healthIncrease": true,
-	"healthMult": false,
+	"healthMult": true,
 	// Number of extra hearts for Elite Mobs
 	"EliteHealthMod": 40,
 	// Number of extra hearts for Ultra Mobs
@@ -36,11 +36,11 @@
 	// # of Modifiers for Eldritch Mobs
 	"EldritchModTotal": 12,
 	// EXP multiplier for Elite Mobs
-	"EliteExpMult": 5,
+	"EliteExpMult": 2,
 	// EXP multiplier for Ultra Mobs
-	"UltraExpMult": 10,
+	"UltraExpMult": 4,
 	// EXP multiplier for Eldritch Mobs
-	"EldritchExpMult": 15,
+	"EldritchExpMult": 8,
 	// Intensity: 1 - 3
 	"intensity": 1,
 	// Enable custom user defined loot
