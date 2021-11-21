@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:bread"
+		},
+		"title": "WOLFPACK 5",
+		"description": ["",{"text":"Shows that the advancements have loaded correctly.","color":"white"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "wolfpack_5:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
