@@ -104,7 +104,6 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.villagerquests.openquestscreen:key.keyboard.i
-key_key.guild.quest_screen:key.keyboard.j
 key_key.adventurez.activatearmor:key.keyboard.unknown
 key_key.adventurez.dragonflydown:key.keyboard.unknown
 key_key.adventurez.dragonfirebreath:key.keyboard.unknown
@@ -173,7 +172,7 @@ key_key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
 key_key.trade:key.keyboard.v
 soundCategory_master:1.0
-soundCategory_music:0.25
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
