@@ -3,3 +3,15 @@ WOLFPACK 5-0.0.7a.zip
 WOLFPACK 5-0.0.9.zip
 imgui.log
 options.txt
+kubejs/exported/tags/items.txt
+kubejs/exported/tags/game_events.txt
+kubejs/exported/tags/functions.txt
+kubejs/exported/tags/fluids.txt
+kubejs/exported/tags/entity_types.txt
+kubejs/exported/tags/blocks.txt
+kubejs/exported/tags/biomes.txt
+kubejs/assets/kubejs/textures/item/example_item.png
+kubejs/assets/kubejs/textures/block/example_block.png
+kubejs/README.txt
+options.justenoughkeys.txt
+knownkeys.txt
