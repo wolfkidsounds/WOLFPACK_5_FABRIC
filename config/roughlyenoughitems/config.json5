@@ -55,6 +55,7 @@
 	},
 	"advanced": {
 		"filtering": {
+			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
@@ -134,7 +135,7 @@
 		"recipeBorder": "LIGHTER",
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
-		"horizontalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundaries": 0.96,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
