@@ -171,5 +171,15 @@
   "force_include": {
     "end_biomes": [],
     "nether_biomes": []
+  },
+  "mining_dims": {
+    "new_basalt_deltas": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "new_nether_wastes": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    }
   }
 }
