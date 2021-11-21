@@ -4,13 +4,13 @@
 	// 0.1 = 10%
 	"distanceFactor": 0.1,
 	// in minutes
-	"increasingTime": 120,
+	"increasingTime": 1000,
 	// 0.1 = 10%
-	"timeFactor": 0.1,
+	"timeFactor": 0.01,
 	// 2.0 = 200% = double
 	"maxFactorHealth": 4.0,
-	"maxFactorDamage": 4.0,
-	"maxFactorProtection": 4.0,
+	"maxFactorDamage": 8.0,
+	"maxFactorProtection": 2.0,
 	// Applies only to special zombie
 	"maxFactorSpeed": 2.0,
 	"allowRandomValues": true,
@@ -42,7 +42,7 @@
 	"dynamicBossModification": true,
 	// 0.2 = 20% per player
 	"dynamicBossModificator": 0.3,
-	"bossMaxFactor": 3.0,
-	"bossDistanceFactor": 0.0,
-	"bossTimeFactor": 0.1
+	"bossMaxFactor": 2.0,
+	"bossDistanceFactor": 1.5,
+	"bossTimeFactor": 0.01
 }
