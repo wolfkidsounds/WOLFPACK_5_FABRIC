@@ -7,8 +7,8 @@
 		"frame": "challenge",
 		"description": ["",{"text":"WOLFPACK 5 - Advancements to progress through the pack more easily\n","color":"white"},{"text":"WOLFACK 5","color":"black"}],
 		"background": "minecraft:textures/block/black_concrete.png",
-		"show_toast": false,
-		"announce_to_chat": true
+		"show_toast": true,
+		"announce_to_chat": false
 	},
 	"criteria": {
 		"tick": {
