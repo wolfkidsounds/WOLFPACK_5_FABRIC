@@ -1,0 +1,28 @@
+{
+	"display": {
+		"icon": {
+			"item": "pointed_dripstone"
+		},
+		"title": "Stalagspikes",
+		"description": "Fall on the tip of pointed dripstone"
+	},
+	"parent": "platy:caving/in_gravel",
+	"criteria": {
+		"dripstone": {
+			"trigger": "entity_hurt_player",
+			"conditions": {
+				"player": {
+					"location": {
+						"block": {
+							"blocks": ["pointed_dripstone"],
+							"state": {
+								"vertical_direction": "up",
+								"thickness": "tip"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

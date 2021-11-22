@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "spruce_planks"
+		},
+		"title": "Toil and Trouble",
+		"description": "Enter a witch's hut"
+	},
+	"parent": "platy:exploration/slime",
+	"criteria": {
+		"witch_hut": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "swamp_hut"
+			}
+		}
+	}
+}

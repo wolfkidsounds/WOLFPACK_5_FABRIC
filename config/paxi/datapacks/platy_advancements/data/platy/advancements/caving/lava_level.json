@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "lava_bucket"
+		},
+		"title": "The Floor Is Lava",
+		"description": "Go so deep that lava seeps into open spaces"
+	},
+	"parent": "platy:caving/at_diamond_level",
+	"criteria": {
+		"lava": {
+			"trigger": "location",
+			"conditions": {
+				"position": {
+					"y": {
+						"max": 11
+					}
+				},
+				"dimension": "overworld"
+			}
+		}
+	}
+}
+				

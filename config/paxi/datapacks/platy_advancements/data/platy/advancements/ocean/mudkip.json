@@ -1,0 +1,23 @@
+{
+	"parent": "platy:ocean/axolotl_bucket",
+	"display": {
+		"icon": {
+			"item": "axolotl_bucket"
+		},
+		"title": "Hoenn Confirmed!",
+		"description": "Pick up a rare blue axolotl",
+		"hidden": true,
+		"frame": "goal"
+	},
+	"criteria": {
+		"axolotl_bucket": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["axolotl_bucket"],
+					"nbt": "{Variant:4}"
+				}
+			}
+		}
+	}
+}

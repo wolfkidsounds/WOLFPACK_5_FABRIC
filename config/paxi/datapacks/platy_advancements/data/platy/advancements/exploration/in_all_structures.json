@@ -1,0 +1,124 @@
+{
+	"display": {
+		"icon": {
+			"item": "structure_block"
+		},
+		"title": "Raidin' Master",
+		"description": "Discover every structure type",
+		"frame": "challenge"
+	},
+	"parent": "platy:exploration/enter_structure",
+	"rewards": {
+		"experience": 500
+	},
+	"criteria": {
+		"bastion_remnant": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "bastion_remnant"
+			}
+		},
+		"buried_treasure": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "buried_treasure"
+			}
+		},
+		"desert_pyramid": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "desert_pyramid"
+			}
+		},
+		"endcity": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "endcity"
+			}
+		},
+		"fortress": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "fortress"
+			}
+		},
+		"igloo": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "igloo"
+			}
+		},
+		"jungle_pyramid": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "jungle_pyramid"
+			}
+		},
+		"mansion": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "mansion"
+			}
+		},
+		"mineshaft": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "mineshaft"
+			}
+		},
+		"monument": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "monument"
+			}
+		},
+		"nether_fossil": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "nether_fossil"
+			}
+		},
+		"ocean_ruin": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "ocean_ruin"
+			}
+		},
+		"pillager_outpost": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "pillager_outpost"
+			}
+		},
+		"ruined_portal": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "ruined_portal"
+			}
+		},
+		"shipwreck": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "shipwreck"
+			}
+		},
+		"stronghold": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "stronghold"
+			}
+		},
+		"swamp_hut": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "swamp_hut"
+			}
+		},
+		"village": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "village"
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "polished_granite"
+		},
+		"title": "Forsaken City",
+		"description": "Find some oceanic ruins"
+	},
+	"parent": "platy:ocean/root",
+	"criteria": {
+		"ocean_ruin": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "ocean_ruin"
+			}
+		}
+	}
+}

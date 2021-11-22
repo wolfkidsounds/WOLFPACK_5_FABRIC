@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "emerald_ore"
+		},
+		"title": "Buried Currency",
+		"description": "Mine emerald ore with Silk Touch"
+	},
+	"parent": "platy:exploration/mountain",
+	"criteria": {
+		"emerald_ore": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["emerald_ore"]
+					}
+				]
+			}
+		}
+	}
+}

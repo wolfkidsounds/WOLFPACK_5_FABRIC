@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"item": "crying_obsidian"
+		},
+		"title": "Ruin Restoration",
+		"description": "Repair a ruined portal and enter it"
+	},
+	"parent": "platy:exploration/root",
+	"criteria": {
+		"portal": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "ruined_portal",
+				"block": {
+					"blocks": ["nether_portal"]
+				}
+			}
+		}
+	}
+}

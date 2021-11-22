@@ -1,0 +1,53 @@
+{
+	"display": {
+		"icon": {
+			"item": "pufferfish_bucket"
+		},
+		"title": "Live Catch",
+		"description": "Pick up everything in a bucket",
+		"frame": "goal"
+	},
+	"parent": "platy:ocean/axolotl_bucket",
+	"criteria": {
+		"cod": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["cod_bucket"]
+				}
+			}
+		},
+		"salmon": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["salmon_bucket"]
+				}
+			}
+		},
+		"pufferfish": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["pufferfish_bucket"]
+				}
+			}
+		},
+		"tropical_fish": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["tropical_fish_bucket"]
+				}
+			}
+		},
+		"axolotl": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["axolotl_bucket"]
+				}
+			}
+		}
+	}
+}

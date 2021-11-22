@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "spruce_boat"
+		},
+		"title": "Going Down",
+		"description": "Enter a shipwreck"
+	},
+	"parent": "platy:ocean/root",
+	"criteria": {
+		"shipwreck": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "shipwreck"
+			}
+		}
+	}
+}

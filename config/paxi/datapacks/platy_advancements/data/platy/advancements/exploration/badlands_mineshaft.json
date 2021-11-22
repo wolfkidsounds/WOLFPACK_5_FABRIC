@@ -1,0 +1,60 @@
+{
+	"display": {
+		"icon": {
+			"item": "dark_oak_planks"
+		},
+		"title": "Gold Rush",
+		"description": "Enter a mineshaft on the surface of a badlands biome"
+	},
+	"parent": "platy:exploration/badlands",
+	"criteria": {
+		"mineshaft": {
+			"trigger": "location",
+			"conditions": {
+				"player": [{
+					"condition": "alternative",
+					"terms": [{
+							"condition": "location_check",
+							"predicate": {
+								"biome": "badlands"
+							}
+						},
+						{
+							"condition": "location_check",
+							"predicate": {
+								"biome": "badlands_plateau"
+							}
+						},
+						{
+							"condition": "location_check",
+							"predicate": {
+								"biome": "modified_badlands_plateau"
+							}
+						},
+						{
+							"condition": "location_check",
+							"predicate": {
+								"biome": "wooded_badlands_plateau"
+							}
+						},
+						{
+							"condition": "location_check",
+							"predicate": {
+								"biome": "modified_wooded_badlands_plateau"
+							}
+						},
+						{
+							"condition": "location_check",
+							"predicate": {
+								"biome": "eroded_badlands"
+							}
+						}
+					]
+				}],
+				"location": {
+					"feature": "mineshaft"
+				}
+			}
+		}
+	}
+}

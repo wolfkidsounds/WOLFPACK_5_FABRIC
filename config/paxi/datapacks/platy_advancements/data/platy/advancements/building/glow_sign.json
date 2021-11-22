@@ -1,0 +1,34 @@
+{
+	"parent": "platy:building/sign_write",
+	"display": {
+		"icon": {
+			"item": "glow_ink_sac"
+		},
+		"title": {
+			"translate": "advancements.husbandry.make_a_sign_glow.title"
+		},
+		"description": {
+			"translate": "advancements.husbandry.make_a_sign_glow.description"
+		}
+	},
+	"criteria": {
+		"make_a_sign_glow": {
+			"trigger": "item_used_on_block",
+			"conditions": {
+				"location": {
+					"block": {
+						"tag": "signs"
+					}
+				},
+				"item": {
+					"items": ["glow_ink_sac"]
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"make_a_sign_glow"
+		]
+	]
+}

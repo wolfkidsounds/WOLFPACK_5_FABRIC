@@ -1,0 +1,96 @@
+{
+	"display": {
+		"icon": {
+			"item": "emerald_ore"
+		},
+		"title": "Ores Galores",
+		"description": "Gather each type of ore",
+		"frame": "goal"
+	},
+	"parent": "platy:caving/all_stones",
+	"rewards": {
+		"experience": 50
+	},
+	"criteria": {
+		"coal": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "coal_ores"
+				}]
+			}
+		},
+		"iron": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "iron_ores"
+				}]
+			}
+		},
+		"gold": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "platy:overworld_gold_ores"
+				}]
+			}
+		},
+		"redstone": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "redstone_ores"
+				}]
+			}
+		},
+		"lapis": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "lapis_ores"
+				}]
+			}
+		},
+		"diamond": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "diamond_ores"
+				}]
+			}
+		},
+		"emerald": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "emerald_ores"
+				}]
+			}
+		},
+		"quartz": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"items": ["nether_quartz_ore"]
+				}]
+			}
+		},
+		"nether_gold": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"items": ["nether_gold_ore"]
+				}]
+			}
+		},
+		"copper": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"tag": "copper_ores"
+				}]
+			}
+		}
+	}
+}

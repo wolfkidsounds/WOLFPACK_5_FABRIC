@@ -1,0 +1,25 @@
+{
+	"parent": "minecraft:nether/distract_piglin",
+	"display": {
+		"icon": {
+			"item": "crying_obsidian"
+		},
+		"title": "Who's Cutting Onions?",
+		"description": "Obtain crying obsidian in the Nether"
+	},
+	"criteria": {
+		"crying_obsidian": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [{
+					"items": ["crying_obsidian"]
+				}],
+				"player": {
+					"location": {
+						"dimension": "the_nether"
+					}
+				}
+			}
+		}
+	}
+}

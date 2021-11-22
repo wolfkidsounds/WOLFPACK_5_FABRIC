@@ -1,0 +1,28 @@
+{
+	"display": {
+		"icon": {
+			"item": "flower_pot"
+		},
+		"title": "Pot Planter",
+		"description": "Plant something in a flower pot"
+	},
+	"parent": "platy:building/brick",
+	"criteria": {
+		"pot_flower": {
+			"trigger": "location",
+			"conditions": {
+				"player": {
+					"player": {
+						"stats": [{
+							"type": "custom",
+							"stat": "pot_flower",
+							"value": {
+								"min": 1
+							}
+						}]
+					}
+				}
+			}
+		}
+	}
+}

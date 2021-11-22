@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "lava_bucket"
+		},
+		"title": {
+			"translate": "advancements.story.lava_bucket.title"
+		},
+		"description": {
+			"translate": "advancements.story.lava_bucket.description"
+		}
+	},
+	"parent": "minecraft:story/smelt_iron",
+	"criteria": {
+		"lava_bucket": {
+			"trigger": "filled_bucket",
+			"conditions": {
+				"item": {
+					"items": ["lava_bucket"]
+				}
+			}
+		}
+	}
+}

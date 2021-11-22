@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "oak_door"
+		},
+		"title": "Villages",
+		"description": "Hrrmm",
+		"background": "textures/block/oak_planks.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"village": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "village"
+			}
+		}
+	}
+}

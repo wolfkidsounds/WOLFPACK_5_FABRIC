@@ -1,0 +1,58 @@
+{
+	"display": {
+		"icon": {
+			"item": "terracotta"
+		},
+		"title": "Disco Mountains",
+		"description": "Enter the badlands"
+	},
+	"parent": "platy:exploration/husk",
+	"criteria": {
+		"badlands": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "badlands"
+			}
+		},
+		"badlands_plateau": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "badlands_plateau"
+			}
+		},
+		"modified_badlands_plateau": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "modified_badlands_plateau"
+			}
+		},
+		"wooded_badlands_plateau": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "wooded_badlands_plateau"
+			}
+		},
+		"modified_wooded_badlands_plateau": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "modified_wooded_badlands_plateau"
+			}
+		},
+		"eroded_badlands": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "eroded_badlands"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"badlands",
+			"badlands_plateau",
+			"modified_badlands_plateau",
+			"wooded_badlands_plateau",
+			"modified_wooded_badlands_plateau",
+			"eroded_badlands"
+		]
+	]
+}

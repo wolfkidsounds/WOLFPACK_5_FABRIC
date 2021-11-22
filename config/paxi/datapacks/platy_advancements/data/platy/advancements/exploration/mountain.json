@@ -1,0 +1,51 @@
+{
+	"display": {
+		"icon": {
+			"item": "stone"
+		},
+		"title": "Mountain Climber",
+		"description": "Enter a mountain biome"
+	},
+	"parent": "platy:exploration/root",
+	"criteria": {
+		"mountains": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "mountains"
+			}
+		},
+		"stone_shore": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "stone_shore"
+			}
+		},
+		"wooded_mountains": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "wooded_mountains"
+			}
+		},
+		"gravelly_mountains": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "gravelly_mountains"
+			}
+		},
+		"modified_gravelly_mountains": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "modified_gravelly_mountains"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"mountains",
+			"stone_shore",
+			"wooded_mountains",
+			"gravelly_mountains",
+			"modified_gravelly_mountains"
+		]
+	]
+}

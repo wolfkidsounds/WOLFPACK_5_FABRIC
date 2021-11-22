@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"item": "sand"
+		},
+		"title": "Bone Dry",
+		"description": "Enter a desert biome"
+	},
+	"parent": "platy:exploration/root",
+	"criteria": {
+		"desert": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "desert"
+			}
+		},
+		"desert_hills": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "desert_hills"
+			}
+		},
+		"desert_lakes": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "desert_lakes"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"desert",
+			"desert_hills",
+			"desert_lakes"
+		]
+	]
+}

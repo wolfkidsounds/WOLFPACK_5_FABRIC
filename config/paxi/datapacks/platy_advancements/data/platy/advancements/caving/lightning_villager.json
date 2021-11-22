@@ -1,0 +1,43 @@
+{
+	"parent": "platy:caving/lightning_rod",
+	"display": {
+		"icon": {
+			"item": "emerald"
+		},
+		"title": {
+			"translate": "advancements.adventure.lightning_rod_with_villager_no_fire.title"
+		},
+		"description": {
+			"translate": "advancements.adventure.lightning_rod_with_villager_no_fire.description"
+		},
+		"frame": "goal"
+	},
+	"criteria": {
+		"lightning_villager": {
+			"trigger": "lightning_strike",
+			"conditions": {
+				"lightning": [{
+					"condition": "entity_properties",
+					"predicate": {
+						"distance": {
+							"absolute": {
+								"max": 30.0
+							}
+						},
+						"lightning_bolt": {
+							"blocks_set_on_fire": 0
+						}
+					},
+					"entity": "this"
+				}],
+				"bystander": [{
+					"condition": "entity_properties",
+					"predicate": {
+						"type": "villager"
+					},
+					"entity": "this"
+				}]
+			}
+		}
+	}
+}

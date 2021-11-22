@@ -1,0 +1,30 @@
+{
+	"display": {
+		"icon": {
+			"item": "dark_oak_log"
+		},
+		"title": "Dimly Lit",
+		"description": "Enter a dark forest"
+	},
+	"parent": "platy:exploration/root",
+	"criteria": {
+		"dark_forest": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "dark_forest"
+			}
+		},
+		"dark_forest_hills": {
+			"trigger": "location",
+			"conditions": {
+				"biome": "dark_forest_hills"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"dark_forest",
+			"dark_forest_hills"
+		]
+	]
+}
