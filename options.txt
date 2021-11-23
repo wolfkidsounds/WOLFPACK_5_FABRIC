@@ -136,6 +136,9 @@ key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.keypad.add
 key_gui.xaero_map_zoom_out:key.keyboard.keypad.subtract
 key_gui.xaero_quick_confirm:key.keyboard.unknown
+key_key.nyfsquivers.open_quiver:key.keyboard.b
+key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
+key_key.nyfsquivers.decrease_slot:key.keyboard.left.bracket
 key_fpsreducer.key.openGui:key.keyboard.unknown
 key_fpsreducer.key.forceIdle:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown
