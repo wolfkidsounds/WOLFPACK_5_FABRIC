@@ -445,11 +445,6 @@
     "cloak": "trans"
   },
   {
-    "name": "Saki451",
-    "uuid": "a6b12b94-bace-4aa6-b014-6ca9f188bd7c",
-    "cloak": "coffee"
-  },
-  {
     "name": "MottledMouse",
     "uuid": "98d51e36-4c13-483e-beac-81f50d70265e",
     "cloak": "trans"
@@ -630,11 +625,6 @@
     "cloak": "mystic"
   },
   {
-    "name": "alexgark01",
-    "uuid": "e00728f1-2008-472e-95f3-dcdb60926903",
-    "cloak": "non-binary"
-  },
-  {
     "name": "lolw_haha",
     "uuid": "55901429-2bc7-4d50-84e6-d9a8bb5b516f",
     "cloak": "asexual"
@@ -642,6 +632,21 @@
   {
     "name": "FLAGZ",
     "uuid": "e66af406-5867-4b94-b43a-0c7404cf1978",
+    "cloak": "jeb"
+  },
+  {
+    "name": "alexgark01",
+    "uuid": "e00728f1-2008-472e-95f3-dcdb60926903",
+    "cloak": "trans"
+  },
+  {
+    "name": "anig990",
+    "uuid": "1ac17d00-1127-421a-9425-fa70f75ca3fc",
+    "cloak": "mint"
+  },
+  {
+    "name": "Pixel1511",
+    "uuid": "55deaa8d-a674-4fdd-9cc4-c74267732f0f",
     "cloak": "jeb"
   }
 ]
