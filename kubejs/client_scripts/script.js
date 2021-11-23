@@ -98,6 +98,7 @@ const DELETE_ITEMS = [
 		'indrev:module_looting',
 		'indrev:module_fire_aspect',
 		'indrev:module_sharpness',
+
 		'indrev:gamer_axe',
 		'indrev:modular_core',
 		'indrev:modular_core_activated',
@@ -106,15 +107,35 @@ const DELETE_ITEMS = [
 		'indrev:modular_armor_chest',
 		'indrev:modular_armor_helmet',
 		'indrev:modular_workbench_mk4',
+
 		'indrev:tin_sword',
 		'indrev:silver_sword',
+
+		'indrev:tin_helmet',
+		'indrev:tin_chestplate',
+		'indrev:tin_leggings',
+		'indrev:tin_boots',
+		'indrev:silver_helmet',
+		'indrev:silver_chestplate',
+		'indrev:silver_leggings',
+		'indrev:silver_boots',
 
 //Better Nether
 		'betternether:nether_ruby_sword',
 
+		'betternether:nether_ruby_helmet',
+		'betternether:nether_ruby_chestplate',
+		'betternether:nether_ruby_leggings',
+		'betternether:nether_ruby_boots',
+
 //Better End
 		'betterend:thallasium_sword',
 		'betterend:terminite_sword',
+
+		'betterend:thallasium_helmet',
+		'betterend:thallasium_chestplate',
+		'betterend:thallasium_leggings',
+		'betterend:thallasium_boots',
 
 //Applied Energistics 2
 		'appliedenergistics2:certus_quartz_sword',
