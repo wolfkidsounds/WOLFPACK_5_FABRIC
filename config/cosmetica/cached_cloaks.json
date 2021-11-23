@@ -180,11 +180,6 @@
     "cloak": "golden"
   },
   {
-    "name": "DarkCxbe",
-    "uuid": "e10f9cf8-34e2-4962-9c25-fa7602f2ca98",
-    "cloak": "flamingo"
-  },
-  {
     "name": "TexRexTex",
     "uuid": "9f32ce9a-cd2e-4aa4-82ce-f33fd4e786df",
     "cloak": "void"
@@ -648,5 +643,10 @@
     "name": "Pixel1511",
     "uuid": "55deaa8d-a674-4fdd-9cc4-c74267732f0f",
     "cloak": "jeb"
+  },
+  {
+    "name": "DarkCxbe",
+    "uuid": "e10f9cf8-34e2-4962-9c25-fa7602f2ca98",
+    "cloak": "cosmic"
   }
 ]
