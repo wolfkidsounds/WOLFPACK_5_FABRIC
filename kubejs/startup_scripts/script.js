@@ -12,6 +12,8 @@ onEvent('block.registry', event => {
 	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')
 })
 
+console.info('Starting Item Modifications')
+
 onEvent('item.modification', event => {
 	//Modifies existing items
 	
@@ -19,13 +21,11 @@ onEvent('item.modification', event => {
 	event.modify('minecraft:wooden_sword', item => {
 		item.maxDamage = 3
 	})
-	
+
 	event.modify('minecraft:wooden_sword', tier => {
 		tier.uses = 60
 		tier.speed = 1.4
 	})
-
-	
 
 	//Flint
 	event.modify('flintytools:flint_sword', item => {
