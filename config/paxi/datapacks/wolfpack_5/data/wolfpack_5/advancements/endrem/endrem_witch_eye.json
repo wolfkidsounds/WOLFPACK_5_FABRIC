@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "endrem:witch_eye"
+		},
+		"title": "Witch Eye",
+		"description": ["",{"text":"Test...","color":"white"}]
+	},
+    "parent": "wolfpack_5:core/endrem",
+	"criteria": {
+		"eye": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["endrem:witch_eye"]
+					}
+				]
+			}
+		}
+	}
+}

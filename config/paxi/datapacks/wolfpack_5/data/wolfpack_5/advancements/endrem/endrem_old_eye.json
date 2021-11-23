@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "endrem:old_eye"
+		},
+		"title": "Old Eye",
+		"description": ["",{"text":"Legends say this eye once belonged to one of the great Sandworms.","color":"white"}]
+	},
+    "parent": "wolfpack_5:core/endrem",
+	"criteria": {
+		"eye": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["endrem:old_eye"]
+					}
+				]
+			}
+		}
+	}
+}

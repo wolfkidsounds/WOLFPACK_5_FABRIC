@@ -1,0 +1,33 @@
+{
+	"display": {
+		"icon": {
+			"item": "endrem:ancient_portal_frame"
+		},
+		"title": "Traveling to the End Dimension",
+		"frame": "challenge",
+		"description": ["",{"text":"A journey to the voids of this world.","color":"white"}]
+	},
+    "parent": "wolfpack_5:endrem/endrem_end_crystal_eye",
+	"criteria": {
+		"end_gate": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"location": [
+					{
+						"feature": "endrem:end_gate"
+					}
+				]
+			}
+		},
+        "end_castle": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"location": [
+					{
+						"feature": "endrem:end_castle"
+					}
+				]
+			}
+		}
+	}
+}
