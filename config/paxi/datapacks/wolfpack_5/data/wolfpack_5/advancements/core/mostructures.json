@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:stone_bricks"
+		},
+		"title": "Mo Structures",
+		"description": ["",{"text":"Find all new Structures from Mo' Structures.","color":"white"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "wolfpack_5:core/root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

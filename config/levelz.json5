@@ -61,7 +61,7 @@
 	// Chance of increased enchantment strength
 	"alchemyEnchantmentChance": 0.004999999888241291,
 	// Chance of drinking potion with double value at max lvl
-	"alchemyPotionChance": 0.05000000074505806,
+	"alchemyPotionChance": 0.17499999701976776,
 	"archeryBowExtraDamage": 0.20000000298023224,
 	"archeryCrossbowExtraDamage": 0.20000000298023224,
 	// Chance of double range damage at max lvl

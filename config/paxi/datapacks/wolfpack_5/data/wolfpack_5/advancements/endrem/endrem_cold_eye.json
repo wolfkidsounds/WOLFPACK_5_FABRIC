@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "endrem:cold_eye"
+		},
+		"title": "Cold Eye",
+		"description": ["",{"text":"One of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world.","color":"white"}]
+	},
+    "parent": "wolfpack_5:core/endrem",
+	"criteria": {
+		"eye": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["endrem:cold_eye"]
+					}
+				]
+			}
+		}
+	}
+}

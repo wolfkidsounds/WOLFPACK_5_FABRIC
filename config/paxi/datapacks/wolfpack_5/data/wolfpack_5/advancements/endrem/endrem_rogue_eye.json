@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "endrem:rogue_eye"
+		},
+		"title": "Rogue Eye",
+		"description": ["",{"text":"This eye is believed to have given our ancestors knowledge of Redstone.","color":"white"}]
+	},
+    "parent": "wolfpack_5:core/endrem",
+	"criteria": {
+		"eye": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["endrem:rogue_eye"]
+					}
+				]
+			}
+		}
+	}
+}

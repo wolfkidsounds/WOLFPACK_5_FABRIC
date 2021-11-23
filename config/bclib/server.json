@@ -7,6 +7,8 @@
     "offerAllMods [default: false]": false,
     "sendAllModInfo [default: false]": false,
     "additionalMods [default: []]": [],
-    "excludeMods [default: []]": []
+    "excludeMods [default: []]": [],
+    "additionalMods": [],
+    "excludeMods": []
   }
 }

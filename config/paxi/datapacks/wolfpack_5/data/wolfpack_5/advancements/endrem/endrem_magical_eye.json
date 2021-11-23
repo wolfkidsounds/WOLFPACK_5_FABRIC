@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "endrem:magical_eye"
+		},
+		"title": "Magical Eye",
+		"description": ["",{"text":"Without this eye, the Evoker has no power.","color":"white"}]
+	},
+    "parent": "wolfpack_5:core/endrem",
+	"criteria": {
+		"eye": {
+			"trigger": "inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["endrem:magical_eye"]
+					}
+				]
+			}
+		}
+	}
+}
