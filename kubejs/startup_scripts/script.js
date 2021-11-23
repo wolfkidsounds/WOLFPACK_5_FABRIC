@@ -18,8 +18,11 @@ onEvent('item.modification', event => {
 	//Wood
 	event.modify('minecraft:wooden_sword', item => {
 		item.maxDamage = 3
-		item.uses = 60
-		item.speed = 1.4
+	})
+	
+	event.modify('minecraft:wooden_sword', tier => {
+		tier.uses = 60
+		tier.speed = 1.4
 	})
 
 	
