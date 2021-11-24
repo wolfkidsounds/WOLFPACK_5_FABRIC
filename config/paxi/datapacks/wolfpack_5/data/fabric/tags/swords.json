@@ -1,0 +1,20 @@
+{
+    "values": [
+        "minecraft:wooden_sword",
+        "flintytools:flint_sword",
+        "minecraft:stone_sword",
+        "indrev:copper_sword",
+        "minecraft:iron_sword",
+        "indrev:lead_sword",
+        "indrev:bronze_sword",
+        "minecraft:diamond_sword",
+        "betternether:cincinnasite_sword",
+        "minecraft:netherite_sword",
+        "indrev:steel_sword",
+        "betternether:cincinnasite_sword_diamond",
+        "betterend:end_crystal_sword",
+        "betterend:aeternium_sword",
+        "conjuring:soul_alloy_sword"
+    ]
+}
+  
