@@ -131,11 +131,29 @@ const DELETE_ITEMS = [
 //Better End
 		'betterend:thallasium_sword',
 		'betterend:terminite_sword',
-
+		
+		'betterend:aeternium_sword_handle',
+		'betterend:thallasium_sword_blade',
+		'betterend:thallasium_sword_handle',
+		'betterend:terminite_sword_blade',
+		'betterend:thallasium_sword_handle',
+		
 		'betterend:thallasium_helmet',
 		'betterend:thallasium_chestplate',
 		'betterend:thallasium_leggings',
 		'betterend:thallasium_boots',
+		
+		'betternether:cincinnasite_hammer',
+		'betternether:cincinnasite_hammer_diamond',
+		'betternether:nether_ruby_hammer',
+		'betterend:aeternium_hammer',
+		'betterend:aeternium_hammer_head',
+		'betterend:iron_hammer',
+		'betterend:golden_hammer',
+		'betterend:diamond_hammer',
+		'betterend:netherite_hammer',
+		'betterend:thallasium_hammer',
+		'betterend:terminite_hammer',
 
 //Applied Energistics 2
 		'appliedenergistics2:certus_quartz_sword',
