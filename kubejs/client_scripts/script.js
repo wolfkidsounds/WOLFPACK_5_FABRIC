@@ -131,18 +131,18 @@ const DELETE_ITEMS = [
 //Better End
 		'betterend:thallasium_sword',
 		'betterend:terminite_sword',
-		
+
 		'betterend:aeternium_sword_handle',
 		'betterend:thallasium_sword_blade',
 		'betterend:thallasium_sword_handle',
 		'betterend:terminite_sword_blade',
 		'betterend:thallasium_sword_handle',
-		
+
 		'betterend:thallasium_helmet',
 		'betterend:thallasium_chestplate',
 		'betterend:thallasium_leggings',
 		'betterend:thallasium_boots',
-		
+
 		'betternether:cincinnasite_hammer',
 		'betternether:cincinnasite_hammer_diamond',
 		'betternether:nether_ruby_hammer',
@@ -157,7 +157,21 @@ const DELETE_ITEMS = [
 
 //Applied Energistics 2
 		'appliedenergistics2:certus_quartz_sword',
-		'appliedenergistics2:nether_quartz_sword'
+		'appliedenergistics2:nether_quartz_sword',
+
+//Vanilla Hammers
+		'vanilla-hammers:slime_hammer',
+		'vanilla-hammers:prismarine_hammer',
+		'vanilla-hammers:fiery_hammer',
+		'vanilla-hammers:ender_hammer',
+		'vanilla-hammers:emerald_hammer',
+
+//Vanilla Excavators
+		'vanilla-excavators:slime_excavator',
+		'vanilla-excavators:prismarine_excavator',
+		'vanilla-excavators:fiery_excavator',
+		'vanilla-excavators:ender_excavator',
+		'vanilla-excavators:emerald_excavator',
 
 	];
 	
