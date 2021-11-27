@@ -18,16 +18,6 @@
 					}
 				]
 			}
-		},
-        "end_castle": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"location": [
-					{
-						"feature": "endrem:end_castle"
-					}
-				]
-			}
 		}
 	}
 }
