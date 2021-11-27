@@ -12,11 +12,10 @@
 		"end_gate": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"location": [
-					{
-						"feature": "endrem:end_gate"
-					}
-				]
+				"location":
+				{
+					"feature": "endrem:end_gate"
+				}
 			}
 		}
 	}
