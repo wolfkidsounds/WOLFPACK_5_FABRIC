@@ -172,6 +172,7 @@ key_key.ae2wtlib.wpt:key.keyboard.unknown
 key_key.ae2wtlib.wit:key.keyboard.unknown
 key_key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
+key_nimble.keybind.frontView:key.keyboard.f4
 key_key.trade:key.keyboard.v
 soundCategory_master:1.0
 soundCategory_music:0.0
