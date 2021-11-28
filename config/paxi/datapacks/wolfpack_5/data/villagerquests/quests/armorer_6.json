@@ -1,0 +1,26 @@
+{
+    "id": 106,
+    "title": "Improved Armor",
+    "refresh": 48000,
+    "level": 2,
+    "type": "mine",
+    "profession": "armorer",
+    "task": [
+        "submit",
+        "minecraft:iron_ingot",
+        12,
+        "mine",
+        "minecraft:iron_ore",
+        8
+    ],
+    "description": "The local toolsmith told me to maybe try to improve on the Chainmail Armorset. It was told one could smelt the whole thing down and make armor out of that?",
+    "reward": [
+        "minecraft:iron_helmet",
+        1,
+        "minecraft:iron_chestplate",
+        1,
+        "minecraft:iron_leggings",
+        1
+    ]
+    
+}
