@@ -1,0 +1,27 @@
+{
+    "id": 1206,
+    "title": "Updating my collection..",
+    "level": 1,
+    "type": "farm",
+    "profession": "florist",
+    "task": [
+        "submit",
+        "minecraft:red_tulip",
+        1,
+        "submit",
+        "minecraft:orange_tulip",
+        1,
+        "submit",
+        "minecraft:white_tulip",
+        1,
+        "submit",
+        "minecraft:pink_tulip",
+        1
+    ],
+    "description": "I am missing a flower in my current collection. Would you be so kind to help me add it to my collection?",
+    "experience": 4,
+    "reward": [
+        "minecraft:flower_pot",
+        4
+    ]
+}
