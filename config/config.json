@@ -7,7 +7,7 @@
   "toughnessHideEmptySlots": false,
   "armorBarOffset": 0,
   "toughnessBarOffset": 0,
-  "oneHealthBar": false,
+  "oneHealthBar": true,
   "colors": [
     "#ECEEFF",
     "#FF5500",
