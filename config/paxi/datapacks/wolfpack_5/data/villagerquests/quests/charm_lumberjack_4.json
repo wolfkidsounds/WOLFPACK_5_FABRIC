@@ -1,0 +1,18 @@
+{
+    "id": 504,
+    "title": "Trees..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "charm_lumberjack",
+    "task": [
+        "submit",
+        "minecraft:jungle_sapling",
+        8
+    ],
+    "description": "I've found the local woodworker doesn't do enough to plant new trees..",
+    "reward": [
+        "minecraft:jungle_log",
+        16
+    ]
+}
