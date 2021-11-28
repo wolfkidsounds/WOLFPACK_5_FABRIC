@@ -2,7 +2,7 @@
   "defaultProperties": {
     "randomize_loot_seed": true,
     "allow_reloot_without_permission": false,
-    "max_refills": 10,
+    "max_refills": 20,
     "refill_non_empty": true,
     "min_wait_time": 12000
   },
