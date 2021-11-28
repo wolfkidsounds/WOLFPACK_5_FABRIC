@@ -1,23 +1,23 @@
 {
 	// Distance in Blocks
-	"increasingDistance": 1000,
+	"increasingDistance": 500,
 	// 0.1 = 10%
-	"distanceFactor": 0.1,
+	"distanceFactor": 0.15,
 	// in minutes
-	"increasingTime": 1000,
+	"increasingTime": 1500,
 	// 0.1 = 10%
-	"timeFactor": 0.01,
+	"timeFactor": 0.1,
 	// 2.0 = 200% = double
-	"maxFactorHealth": 4.0,
+	"maxFactorHealth": 8.0,
 	"maxFactorDamage": 8.0,
-	"maxFactorProtection": 2.0,
+	"maxFactorProtection": 8.0,
 	// Applies only to special zombie
 	"maxFactorSpeed": 2.0,
 	"allowRandomValues": true,
 	// in %
-	"randomChance": 5,
+	"randomChance": 10,
 	// in %
-	"randomFactor": 5,
+	"randomFactor": 10,
 	// Based on other settings
 	"extraXp": true,
 	"maxXPFactor": 8.0,
