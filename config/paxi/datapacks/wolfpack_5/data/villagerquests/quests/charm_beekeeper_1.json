@@ -1,0 +1,24 @@
+{
+    "id": 401,
+    "title": "So many flowers..",
+    "refresh": 120000,
+    "level": 0,
+    "type": "farm",
+    "profession": "charm_beekeeper",
+    "task": [
+        "submit",
+        "minecraft:dandelion",
+        2,
+        "submit",
+        "minecraft:poppy",
+        3,
+        "submit",
+        "minecraft:allium",
+        2
+    ],
+    "description": "I don#t have enough flowers for all the bees right now. Can you step out and collect some?",
+    "reward": [
+        "minecraft:honey_bottle",
+        1
+    ]
+}
