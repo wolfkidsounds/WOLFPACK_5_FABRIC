@@ -1,0 +1,18 @@
+{
+    "id": 902,
+    "title": "Seeds..",
+    "refresh": 48000,
+    "level": 0,
+    "type": "farm",
+    "profession": "farmer",
+    "task": [
+        "submit",
+        "minecraft:pumpkin_seeds",
+        16
+    ],
+    "description": "Hey. Do you have something new for me? I'm looking for seeds right now.",
+    "reward": [
+        "minecraft:pumpkin",
+        4
+    ]
+}
