@@ -1,0 +1,20 @@
+{
+    "id": 1105,
+    "title": "Materials",
+    "level": 0,
+    "type": "farm",
+    "profession": "fletcher",
+    "task": [
+        "submit",
+        "minecraft:leather",
+        8,
+        "submit",
+        "minecraft:feather",
+        4
+    ],
+    "description": "I wondered for a way to store arrows better. I have an idea but need your help.",
+    "reward": [
+        "nyfsquivers:basic_quiver",
+        1
+    ]
+}
