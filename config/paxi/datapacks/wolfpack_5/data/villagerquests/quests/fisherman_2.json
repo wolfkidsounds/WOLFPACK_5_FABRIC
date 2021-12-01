@@ -1,0 +1,17 @@
+{
+    "id": 1002,
+    "title": "Fish..",
+    "level": 0,
+    "type": "farm",
+    "profession": "fisherman",
+    "task": [
+        "submit",
+        "minecraft:salmon",
+        8
+    ],
+    "description": "Wow I feel exhausted. The ponds are so empty it takes so much time to get things going.",
+    "reward": [
+        "minecraft:cooked_salmon",
+        4
+    ]
+}
