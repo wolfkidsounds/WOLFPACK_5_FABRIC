@@ -2,17 +2,14 @@
 # Lets you enable / disable certain features and modify them.
 [features]
 	# (Default = true) Stops the server from loading spawn chunks.
-	disable_spawn_chunks = false
-	# (Default = true) Replaces vanilla's mobspawning algorithm with PaperMC's per player mobspawning.
-	per_player_spawns = true
+	disable_spawn_chunks = true
 	# (Default = true) Allows ServerCore to modify the distance the server will perform chunk ticks at.
 	# Chunk ticks include randomticks and mobspawning.
-	use_chunk_tick_distance = true
-	# (Default = false) Allows xp orbs to merge with others that have different experience amounts.
-	# This will also allow players to pickup xp much faster.
+	use_chunk_tick_distance = false
+	# (Default = false) Allows more xp orbs to merge with one another, to reduce xp orb lag.
 	fast_xp_merging = false
 	# (Default = false) Makes villagers tick less often if they are stuck in a 1x1 space.
-	lobotomize_villagers = true
+	lobotomize_villagers = false
 	# (Default = 20) Decides the interval in between villager ticks when lobotomized.
 	lobotomized_tick_interval = 20
 	# (Default = 5) The amount of minutes in between auto-save intervals when /save-on is active.
