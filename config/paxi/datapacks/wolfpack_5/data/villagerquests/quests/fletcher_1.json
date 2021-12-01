@@ -1,0 +1,20 @@
+{
+    "id": 1101,
+    "title": "Tie a bow",
+    "level": 0,
+    "type": "farm",
+    "profession": "fletcher",
+    "task": [
+        "submit",
+        "minecraft:string",
+        8,
+        "submit",
+        "minecraft:stick",
+        16
+    ],
+    "description": "I have the strange idea to make some hunting equipment. I will call it a bow.",
+    "reward": [
+        "minecraft:bow",
+        1
+    ]
+}

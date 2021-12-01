@@ -1,0 +1,23 @@
+{
+    "id": 1104,
+    "title": "Materials",
+    "level": 0,
+    "type": "farm",
+    "profession": "fletcher",
+    "task": [
+        "submit",
+        "minecraft:flint",
+        16,
+        "submit",
+        "minecraft:stick",
+        16,
+        "submit",
+        "minecraft:feather",
+        16
+    ],
+    "description": "I've found out that you can tie some flint and feathers to a stick. Making some kind of projectile - This is neat!",
+    "reward": [
+        "minecraft:arrow",
+        16
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1103,
+    "title": "Materials",
+    "level": 0,
+    "type": "farm",
+    "profession": "fletcher",
+    "task": [
+        "submit",
+        "minecraft:feather",
+        16
+    ],
+    "description": "I want to experiment with some newer materials",
+    "reward": [
+        "minecraft:flint",
+        2
+    ]
+}
