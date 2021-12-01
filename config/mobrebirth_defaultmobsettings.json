@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "rebirthChance": 0.1,
+  "extraMobChance": 0.01,
+  "extraMobMode": "continuous",
+  "extraMobCount": 1,
+  "rebornAsEggs": false,
+  "rebirthFromPlayer": true,
+  "rebirthFromNonPlayer": true,
+  "preventSunlightDamage": false,
+  "biomeList-*": "*",
+  "rebornMobWeights-\u003d1": "\u003d1"
+}
