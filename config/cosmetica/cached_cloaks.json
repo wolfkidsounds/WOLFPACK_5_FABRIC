@@ -380,11 +380,6 @@
     "cloak": "military"
   },
   {
-    "name": "Cavariel",
-    "uuid": "e34cbc55-5954-40ff-b575-edd8098b3cc7",
-    "cloak": "trans"
-  },
-  {
     "name": "emilyploszaj",
     "uuid": "d9cb8eaa-5b7c-4f06-b0f4-081b5b79423a",
     "cloak": "trans"
@@ -408,11 +403,6 @@
     "name": "SunJustice",
     "uuid": "abac03cd-056c-4e91-9a66-9e526f626b15",
     "cloak": "lapis"
-  },
-  {
-    "name": "PinkGoosik",
-    "uuid": "59abdc87-d23e-4877-beaf-a7bb84b15697",
-    "cloak": "trans"
   },
   {
     "name": "MottledMouse",
@@ -463,11 +453,6 @@
     "name": "riskybuilder",
     "uuid": "f2c41fe7-6615-44f7-a5ad-ee2ec81ae7ec",
     "cloak": "aromantic"
-  },
-  {
-    "name": "Winter_Cevee",
-    "uuid": "9adbd74a-c125-4f54-92a5-1e4789f74c02",
-    "cloak": "enchanted-jeb"
   },
   {
     "name": "JamSoda_",
@@ -645,11 +630,6 @@
     "cloak": "crimson"
   },
   {
-    "name": "X_mpr",
-    "uuid": "fe0fe1c4-0be0-4971-afb7-b468f033d262",
-    "cloak": "void"
-  },
-  {
     "name": "casmin7",
     "uuid": "82f7ff2f-dabd-4b69-9217-fbbd8d63ccff",
     "cloak": "cosmic"
@@ -688,11 +668,6 @@
     "name": "snerps",
     "uuid": "c26605d4-8178-4df8-aef3-9fd46888911c",
     "cloak": "smoky"
-  },
-  {
-    "name": "JustAnGhost",
-    "uuid": "b24da0c1-4dd4-470b-832a-669e41ac40c8",
-    "cloak": "trans"
   },
   {
     "name": "ItsblahgamingYT",
@@ -748,5 +723,160 @@
     "name": "BlockedUser",
     "uuid": "37286282-bead-4338-b952-a311e2aee82f",
     "cloak": "azure"
+  },
+  {
+    "name": "lemon",
+    "uuid": "f6f91c99-a785-410a-9d17-86654988e065",
+    "cloak": "violet"
+  },
+  {
+    "name": "X_mpr",
+    "uuid": "fe0fe1c4-0be0-4971-afb7-b468f033d262",
+    "cloak": "golden"
+  },
+  {
+    "name": "TheGreatInferno",
+    "uuid": "ae62b758-f0f6-4b60-a6b9-b060bc8454d6",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "enerGstone",
+    "uuid": "ea1c71ed-d089-4f19-a46d-576c6d2ffc87",
+    "cloak": "mint"
+  },
+  {
+    "name": "Ripitibi",
+    "uuid": "3b91602c-3cce-47b8-82cd-510540bfa878",
+    "cloak": "mint"
+  },
+  {
+    "name": "shrobbyy",
+    "uuid": "7f82c864-dd8d-4f91-8d6b-9f7d8a91c06a",
+    "cloak": "void"
+  },
+  {
+    "name": "Axiuss",
+    "uuid": "ff470c66-7d80-4a18-b04c-02862a4db87b",
+    "cloak": "mystic"
+  },
+  {
+    "name": "M4r10xD",
+    "uuid": "3d5241ea-2bdf-4388-9b6f-b023251a5616",
+    "cloak": "enchanted-jeb"
+  },
+  {
+    "name": "Winter_Cevee",
+    "uuid": "9adbd74a-c125-4f54-92a5-1e4789f74c02",
+    "cloak": "jeb"
+  },
+  {
+    "name": "wizarduke",
+    "uuid": "9b708813-0bb0-4306-8718-c965aca620cc",
+    "cloak": "crimson"
+  },
+  {
+    "name": "sidwawa",
+    "uuid": "d6ab7f4a-bbc4-47d8-8c9b-7f8bd0132a2e",
+    "cloak": "void"
+  },
+  {
+    "name": "Glenz",
+    "uuid": "7fa51014-8fbb-4c23-8615-179892652238",
+    "cloak": "trans"
+  },
+  {
+    "name": "vertumael",
+    "uuid": "5491f171-baa3-4e66-81ec-4f7956909c71",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "I_Am_Some_Guy",
+    "uuid": "7f3d4a74-74cc-4853-914c-f313c277f6ef",
+    "cloak": "crimson"
+  },
+  {
+    "name": "Trumpalumpus",
+    "uuid": "bf4a0427-5851-496c-8ad2-2e1a58ff408b",
+    "cloak": "void"
+  },
+  {
+    "name": "LauseKrause",
+    "uuid": "294ff89e-35ae-4f4d-8c04-cfbfb11169cd",
+    "cloak": "golden"
+  },
+  {
+    "name": "AStaleWaffle",
+    "uuid": "5cd67c63-e3c2-43a7-ab0b-b9780ef7152c",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "tjlock",
+    "uuid": "bd9f549a-94bc-46d7-965c-e3003a5a71f0",
+    "cloak": "golden"
+  },
+  {
+    "name": "JustBNS",
+    "uuid": "99ba85fc-20d7-4fbe-a21e-57374ed37d59",
+    "cloak": "void"
+  },
+  {
+    "name": "fancy",
+    "uuid": "8f1fd668-8132-4693-b06b-18497603670e",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "JustAnGhost",
+    "uuid": "b24da0c1-4dd4-470b-832a-669e41ac40c8",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "Brimstone456",
+    "uuid": "5181a304-7bc0-402e-8e22-334e524183a7",
+    "cloak": "crimson"
+  },
+  {
+    "name": "The9Lord",
+    "uuid": "4cef2be1-d1cc-4e67-abc2-c752365a3f0c",
+    "cloak": "crimson"
+  },
+  {
+    "name": "PinkGoosik",
+    "uuid": "59abdc87-d23e-4877-beaf-a7bb84b15697",
+    "cloak": "trans"
+  },
+  {
+    "name": "RoboMeister",
+    "uuid": "9371c166-326c-4d4c-b4dd-bb39cedc424c",
+    "cloak": "void"
+  },
+  {
+    "name": "YannDeCaii",
+    "uuid": "c9b514f8-b7bc-4048-aa8c-b23b5739a434",
+    "cloak": "crimson"
+  },
+  {
+    "name": "SapphireSparkle",
+    "uuid": "27d918b2-9092-416e-a87f-5e73aec6337f",
+    "cloak": "void"
+  },
+  {
+    "name": "SapphireSpar",
+    "uuid": "105a213f-0fcf-42cc-b098-93b6b6b00989",
+    "cloak": "void"
+  },
+  {
+    "name": "AdonHamor",
+    "uuid": "1cc3081d-a979-42f8-bb23-fdcb1a60272b",
+    "cloak": "golden"
+  },
+  {
+    "name": "snozberriezz",
+    "uuid": "e2477273-0601-4d9e-9ea5-9f28316dca1e",
+    "cloak": "trans"
+  },
+  {
+    "name": "AcidParasite",
+    "uuid": "6dc09ce5-0732-4fe0-8dec-a1f01ea078f0",
+    "cloak": "void"
   }
 ]
