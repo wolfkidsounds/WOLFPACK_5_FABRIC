@@ -1,0 +1,6 @@
+{
+  "allowBossRebirth": false,
+  "allowSlimeRebirth": true,
+  "allowAnimalRebirth": true,
+  "onlyAllowVanillaMobRebirth": false
+}
