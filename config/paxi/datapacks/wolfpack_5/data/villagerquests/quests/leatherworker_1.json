@@ -1,0 +1,18 @@
+{
+    "id": 1401,
+    "title": "Leather..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "leatherworker",
+    "task": [
+        "submit",
+        "minecraft:leather",
+        16
+    ],
+    "description": "The armorer asked for some leather. Are you willing to provide some?",
+    "reward": [
+        "minecraft:leather_chestplate",
+        1
+    ]
+}
