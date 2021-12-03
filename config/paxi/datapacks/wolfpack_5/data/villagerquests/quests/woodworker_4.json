@@ -1,0 +1,18 @@
+{
+    "id": 2404,
+    "title": "Trees..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "woodworker",
+    "task": [
+        "submit",
+        "minecraft:jungle_sapling",
+        8
+    ],
+    "description": "I've found that all my saplings are already re-planted. I can never have enough really..",
+    "reward": [
+        "minecraft:jungle_log",
+        16
+    ]
+}
