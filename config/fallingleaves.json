@@ -184,6 +184,10 @@
     "croptopia:lime_crop": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "techreborn:rubber_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }
