@@ -1,0 +1,18 @@
+{
+    "id": 202,
+    "title": "Meat..",
+    "refresh": 48000,
+    "level": 0,
+    "type": "farm",
+    "profession": "butcher",
+    "task": [
+        "submit",
+        "minecraft:chicken",
+        4
+    ],
+    "description": "We are currently really short on supply. Help me out here.",
+    "reward": [
+        "minecraft:cooked_chicken",
+        1
+    ]
+}
