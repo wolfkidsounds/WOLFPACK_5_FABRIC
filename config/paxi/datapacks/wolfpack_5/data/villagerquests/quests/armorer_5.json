@@ -1,0 +1,23 @@
+{
+    "id": 105,
+    "title": "Any Chains?",
+    "refresh": 48000,
+    "level": 2,
+    "type": "mine",
+    "profession": "armorer",
+    "task": [
+        "submit",
+        "minecraft:chain",
+        12
+    ],
+    "description": "I've been experimenting with new materials lately. Can you provide me some chains? The ones out of iron? Maybe I can make armor out of that too.",
+    "reward": [
+        "minecraft:chainmail_helmet",
+        1,
+        "minecraft:chainmail_chestplate",
+        1,
+        "minecraft:chainmail_leggings",
+        1
+    ]
+    
+}

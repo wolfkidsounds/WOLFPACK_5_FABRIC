@@ -1,0 +1,21 @@
+{
+    "id": 102,
+    "title": "Leather..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "armorer",
+    "task": [
+        "submit",
+        "minecraft:leather",
+        8
+    ],
+    "description": "I want to provide better armor for the village. I really need some leather.",
+    "reward": [
+        "minecraft:leather_boots",
+        1,
+        "minecraft:leather_leggings",
+        1
+    ]
+    
+}

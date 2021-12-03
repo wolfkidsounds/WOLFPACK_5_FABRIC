@@ -1,0 +1,22 @@
+{
+    "id": 104,
+    "title": "Special Leather",
+    "refresh": 48000,
+    "level": 1,
+    "type": "fight",
+    "profession": "armorer",
+    "task": [
+        "submit",
+        "adventurez:rhino_leather",
+        2,
+        "kill",
+        "adventurez:desert_rhino",
+        1
+    ],
+    "description": "I have heard rumors about a special type of leather that is much more durable but also harder to find. Rhino Leather! I have heared that you can find Rhinos in the Deserts.",
+    "reward": [
+        "minecraft:experience_bottle",
+        16
+    ]
+    
+}

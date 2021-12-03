@@ -1,0 +1,19 @@
+{
+    "id": 103,
+    "title": "Leather..",
+    "refresh": 24000,
+    "level": 1,
+    "type": "farm",
+    "profession": "armorer",
+    "task": [
+        "submit",
+        "minecraft:leather",
+        16
+    ],
+    "description": "I want to provide better armor for the village. I really need some leather.",
+    "reward": [
+        "minecraft:experience_bottle",
+        8
+    ]
+    
+}
