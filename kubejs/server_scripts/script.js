@@ -7,6 +7,18 @@ settings.logErroringRecipes = true
 
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
+console.info('Initialize Item Tags')
+
+onEvent('item.tags', event => {
+	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
+	event.add('fabric:swords', 'betternether:cincinnasite_sword')
+	event.add('fabric:swords', 'betternether:cincinnasite_sword_diamond')
+	event.add('fabric:swords', 'betterend:end_crystal_sword')
+	event.add('fabric:swords', 'betterend:aeternium_sword')
+	event.add('fabric:swords', 'conjuring:soul_alloy_sword')
+	event.add('fabric:swords', 'oxidized:rose_gold_sword')
+})
+
 console.info('Initialize Recipe Removal')
 
 const DELETE_ITEMS = [
