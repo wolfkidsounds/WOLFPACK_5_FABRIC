@@ -130,6 +130,7 @@ key_nimble.keybind.frontView:key.keyboard.f4
 key_key.nyfsquivers.open_quiver:key.keyboard.b
 key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
 key_key.nyfsquivers.decrease_slot:key.keyboard.left.bracket
+key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.quickspyglasser.use:key.keyboard.c
 key_key.trade:key.keyboard.v
 key_key.veinmining.activate.desc:key.keyboard.unknown
