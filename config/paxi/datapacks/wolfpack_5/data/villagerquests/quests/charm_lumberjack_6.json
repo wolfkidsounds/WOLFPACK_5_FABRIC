@@ -1,0 +1,18 @@
+{
+    "id": 506,
+    "title": "Trees..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "charm_lumberjack",
+    "task": [
+        "submit",
+        "minecraft:dark_oak_sapling",
+        8
+    ],
+    "description": "I've found the local woodworker doesn't do enough to plant new trees..",
+    "reward": [
+        "minecraft:dark_oak_log",
+        16
+    ]
+}

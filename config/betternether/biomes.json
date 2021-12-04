@@ -461,7 +461,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -471,12 +472,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -569,7 +605,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -579,7 +616,10 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
@@ -743,7 +783,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -753,12 +794,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -858,7 +934,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -868,12 +945,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -997,7 +1109,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1007,12 +1120,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -1132,7 +1280,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1142,12 +1291,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -1244,7 +1428,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1254,12 +1439,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -1347,7 +1567,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1357,12 +1578,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -1454,7 +1710,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1464,12 +1721,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -1557,7 +1849,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1567,12 +1860,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -1696,7 +2024,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1706,7 +2035,10 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
@@ -1851,7 +2183,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -1861,7 +2194,10 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
@@ -1994,7 +2330,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2004,12 +2341,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2101,7 +2473,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2111,12 +2484,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2209,7 +2617,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2219,12 +2628,52 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "hoglin": {
+                "weight[def: 9]": 9,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
+              },
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2344,7 +2793,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2354,7 +2804,10 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
@@ -2460,7 +2913,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2470,12 +2924,52 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "hoglin": {
+                "weight[def: 9]": 9,
+                "min_group_size[def: 2]": 2,
+                "max_group_size[def: 5]": 5
+              },
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2583,7 +3077,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2593,12 +3088,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2710,7 +3240,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2720,12 +3251,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2801,7 +3367,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2811,12 +3378,47 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 5]": 5
+              }
+            },
+            "minecraft": {
+              "ghast": {
+                "weight[def: 50]": 50,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "zombified_piglin": {
+                "weight[def: 100]": 100,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "magma_cube": {
+                "weight[def: 2]": 2,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "enderman": {
+                "weight[def: 1]": 1,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "piglin": {
+                "weight[def: 15]": 15,
+                "min_group_size[def: 4]": 4,
+                "max_group_size[def: 4]": 4
+              },
+              "strider": {
+                "weight[def: 60]": 60,
+                "min_group_size[def: 1]": 1,
+                "max_group_size[def: 2]": 2
               }
             }
           },
@@ -2915,7 +3517,8 @@
               "firefly": {
                 "weight[def: 5]": 5,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 6]": 6
+                "max_group_size[def: 6]": 6,
+                "min_group_size[def: 3]": 3
               },
               "skull": {
                 "weight[def: 2]": 2,
@@ -2925,7 +3528,10 @@
               "naga": {
                 "weight[def: 20]": 20,
                 "min_group_size[def: 2]": 2,
-                "max_group_size[def: 4]": 4
+                "max_group_size[def: 4]": 4,
+                "weight[def: 8]": 8,
+                "min_group_size[def: 3]": 3,
+                "max_group_size[def: 5]": 5
               },
               "hydrogen_jellyfish": {
                 "weight[def: 5]": 5,
