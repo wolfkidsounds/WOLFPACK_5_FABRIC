@@ -1,0 +1,17 @@
+{
+    "id": 601,
+    "title": "The End..",
+    "level": 0,
+    "type": "",
+    "profession": "enderian",
+    "task": [
+        "submit",
+        "minecraft:ender_pearl",
+        8
+    ],
+    "description": "We heared rumors about a far away world where the void is so deep that you can not see.",
+    "reward": [
+        "minecraft:ender_eye",
+        4
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 602,
+    "title": "The End..",
+    "level": 4,
+    "type": "",
+    "profession": "enderian",
+    "task": [
+        "submit",
+        "minecraft:ender_eye",
+        8
+    ],
+    "description": "I met an adventurer who slayed a lot of pirates. He left something here that you can maybe use?",
+    "reward": [
+        "endrem:black_eye",
+        1
+    ]
+}
