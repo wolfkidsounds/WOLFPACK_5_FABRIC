@@ -1,0 +1,17 @@
+{
+    "id": 702,
+    "title": "Redstone..",
+    "level": 0,
+    "type": "",
+    "profession": "engineer",
+    "task": [
+        "submit",
+        "minecraft:oak_log",
+        32
+    ],
+    "description": "I've experimented with some new powders. Want to trade?",
+    "reward": [
+        "minecraft:redstone",
+        8
+    ]
+}
