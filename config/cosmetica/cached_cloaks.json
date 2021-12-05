@@ -995,8 +995,28 @@
     "cloak": "enchanted-jeb"
   },
   {
+    "name": "Just_a_Mango",
+    "uuid": "0c8bf821-e142-4c5c-bb7a-6a9c39afcd7f",
+    "cloak": "military"
+  },
+  {
+    "name": "FoxGamer9YT",
+    "uuid": "c56d2b49-bbbd-4352-a7c1-502d96c55e26",
+    "cloak": "bi"
+  },
+  {
+    "name": "Arshle",
+    "uuid": "9eebbd9f-a380-441d-920c-ca66e6602b8e",
+    "cloak": "void"
+  },
+  {
     "name": "Z2000",
     "uuid": "38824d09-8df7-4906-b935-f680fd9a9d86",
-    "cloak": "enchanted-jeb"
+    "cloak": "pride"
+  },
+  {
+    "name": "fishysqrty",
+    "uuid": "8c1f9a95-268b-4ae7-a5a7-64a898bf617a",
+    "cloak": "smoky"
   }
 ]
