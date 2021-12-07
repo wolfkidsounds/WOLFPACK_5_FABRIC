@@ -1,0 +1,18 @@
+{
+    "id": 1302,
+    "title": "Explore..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "",
+    "profession": "oceanographer",
+    "task": [
+        "travel",
+        "minecraft:river",
+        1
+    ],
+    "description": "I want to make a map of the rivers around us. Can you find the nearest river and report back?",
+    "reward": [
+        "minecraft:sponge",
+        1
+    ]
+}

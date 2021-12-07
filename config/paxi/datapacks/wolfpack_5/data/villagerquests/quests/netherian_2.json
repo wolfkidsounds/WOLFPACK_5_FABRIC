@@ -1,0 +1,17 @@
+{
+    "id": 1402,
+    "title": "Nether..",
+    "level": 0,
+    "type": "mine",
+    "profession": "netherian",
+    "task": [
+        "submit",
+        "minecraft:obsidian",
+        16
+    ],
+    "description": "I've heard about another dimension to explore. Some people told very dark humors.",
+    "reward": [
+        "minecraft:quartz",
+        8
+    ]
+}

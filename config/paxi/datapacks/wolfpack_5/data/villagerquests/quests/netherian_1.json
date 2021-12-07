@@ -1,0 +1,17 @@
+{
+    "id": 1401,
+    "title": "Nether..",
+    "level": 1,
+    "type": "mine",
+    "profession": "netherian",
+    "task": [
+        "submit",
+        "minecraft:netherrack",
+        32
+    ],
+    "description": "I was exploring in the nether but the mobs are far too hard for me. Can you get me some netherrack?",
+    "reward": [
+        "minecraft:quartz",
+        8
+    ]
+}
