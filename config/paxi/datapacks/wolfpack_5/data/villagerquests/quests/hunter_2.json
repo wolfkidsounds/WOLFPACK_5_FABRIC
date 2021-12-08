@@ -1,0 +1,19 @@
+{
+    "id": 1302,
+    "title": "Wildlife..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "fight",
+    "profession": "hunter",
+    "task": [
+        "kill",
+        "minecraft:bee",
+        8
+    ],
+    "description": "We need to hunt some wildlife. Some animals are overpopulating due to the others farming them.",
+    "experience": 4,
+    "reward": [
+        "minecraft:honeycomb",
+        2
+    ]
+}
