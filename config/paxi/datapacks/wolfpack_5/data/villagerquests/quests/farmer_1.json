@@ -1,0 +1,19 @@
+{
+    "id": 901,
+    "title": "Seeds..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "farmer",
+    "task": [
+        "submit",
+        "minecraft:wheat_seeds",
+        16
+    ],
+    "description": "We are looking for some crops. I'm literally starving!",
+    "experience": 1,
+    "reward": [
+        "minecraft:bread",
+        4
+    ]
+}
