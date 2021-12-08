@@ -1,0 +1,19 @@
+{
+    "id": 1102,
+    "title": "Inspirations..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "fletcher",
+    "task": [
+        "submit",
+        "minecraft:flint",
+        16
+    ],
+    "description": "I am experimenting with some new materials for arrows.",
+    "experience": 2,
+    "reward": [
+        "minecraft:arrow",
+        8
+    ]
+}
