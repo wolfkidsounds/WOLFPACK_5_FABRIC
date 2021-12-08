@@ -1,0 +1,19 @@
+{
+    "id": 601,
+    "title": "Alchemy..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "",
+    "profession": "cleric",
+    "task": [
+        "submit",
+        "minecraft:potion",
+        16
+    ],
+    "description": "After a journey to the folks in the south I have discovered something very special. Fill up some water in bottles and give them to me.",
+    "experience": 8,
+    "reward": [
+        "minecraft:emerald",
+        1
+    ]
+}
