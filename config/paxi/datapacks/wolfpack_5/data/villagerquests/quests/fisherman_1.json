@@ -1,0 +1,19 @@
+{
+    "id": 1001,
+    "title": "Fish..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "",
+    "profession": "fisherman",
+    "task": [
+        "submit",
+        "minecraft:cod",
+        8
+    ],
+    "description": "Go get some fish buddy. I really wanted to make something good for the village.",
+    "experience": 1,
+    "reward": [
+        "minecraft:experience_bottle",
+        1
+    ]
+}

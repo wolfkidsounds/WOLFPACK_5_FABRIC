@@ -1,0 +1,19 @@
+{
+    "id": 1304,
+    "title": "Wildlife..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "fight",
+    "profession": "hunter",
+    "task": [
+        "kill",
+        "minecraft:cow",
+        8
+    ],
+    "description": "We need to hunt some wildlife. Some animals are overpopulating due to the others farming them.",
+    "experience": 4,
+    "reward": [
+        "minecraft:leather",
+        4
+    ]
+}

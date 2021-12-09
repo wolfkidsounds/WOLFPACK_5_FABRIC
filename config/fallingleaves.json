@@ -344,6 +344,18 @@
     "betternether:black_bush": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "wild_update:mangrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:eyeball_small": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betternether:eyeball": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

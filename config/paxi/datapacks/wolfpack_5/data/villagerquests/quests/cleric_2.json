@@ -1,0 +1,19 @@
+{
+    "id": 602,
+    "title": "Alchemy..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "",
+    "profession": "cleric",
+    "task": [
+        "submit",
+        "minecraft:blaze_powder",
+        4
+    ],
+    "description": "The netherian told me about a special powder that has some very interesting abilities. Bring me some to support my studies.",
+    "experience": 8,
+    "reward": [
+        "minecraft:emerald",
+        1
+    ]
+}

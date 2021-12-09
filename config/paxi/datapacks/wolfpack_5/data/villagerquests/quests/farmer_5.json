@@ -1,0 +1,19 @@
+{
+    "id": 905,
+    "title": "Vegetables..",
+    "refresh": 24000,
+    "level": 0,
+    "type": "farm",
+    "profession": "farmer",
+    "task": [
+        "submit",
+        "minecraft:carrot",
+        16
+    ],
+    "description": "We are looking for some crops. I'm literally starving!",
+    "experience": 1,
+    "reward": [
+        "farmersdelight:vegetable_soup",
+        4
+    ]
+}
