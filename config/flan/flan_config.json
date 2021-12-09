@@ -1,17 +1,17 @@
 {
   "__comment": "For help with the config refer to https://github.com/Flemmli97/Flan/wiki/Config",
   "configVersion": 2,
-  "startingBlocks": 500,
-  "maxClaimBlocks": 5000,
-  "ticksForNextBlock": 600,
-  "minClaimsize": 100,
-  "defaultClaimDepth": 10,
-  "maxClaims": -1,
+  "startingBlocks": 100,
+  "maxClaimBlocks": 10000,
+  "ticksForNextBlock": 500,
+  "minClaimsize": 50,
+  "defaultClaimDepth": 16,
+  "maxClaims": 10,
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
   "inspectionItem": "minecraft:stick",
-  "claimDisplayTime": 1000,
+  "claimDisplayTime": 2000,
   "permissionLevel": 2,
   "sellPrice": -1,
   "buyPrice": -1,
@@ -20,7 +20,8 @@
     "universal_graves:grave"
   ],
   "interactBlockBlacklist": [
-    "universal_graves:grave"
+    "universal_graves:grave",
+    "wraith:waystone"
   ],
   "breakBlockEntityTagBlacklist": [],
   "interactBlockEntityTagBlacklist": [
