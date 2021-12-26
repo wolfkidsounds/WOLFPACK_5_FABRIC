@@ -1,6 +1,6 @@
 {
   "__comment": "For help with the config refer to https://github.com/Flemmli97/Flan/wiki/Config",
-  "configVersion": 2,
+  "configVersion": 4,
   "startingBlocks": 100,
   "maxClaimBlocks": 10000,
   "ticksForNextBlock": 500,
@@ -34,6 +34,10 @@
   "entityTagIgnore": [
     "graves.marker"
   ],
+  "customItemPermission": [
+    "@c:wrenches-INTERACTBLOCK"
+  ],
+  "customBlockPermission": [],
   "dropTicks": 6000,
   "inactivityTimeDays": 30,
   "inactivityBlocksMax": 2000,
