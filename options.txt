@@ -132,7 +132,6 @@ key_key.nyfsquivers.increase_slot:key.keyboard.right.bracket
 key_key.nyfsquivers.decrease_slot:key.keyboard.left.bracket
 key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.quickspyglasser.use:key.keyboard.c
-key_key.trade:key.keyboard.v
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.villagerquests.openquestscreen:key.keyboard.i
 key_key.push_to_talk:key.keyboard.caps.lock

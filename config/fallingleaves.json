@@ -356,6 +356,10 @@
     "betternether:eyeball": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "twm:mangrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }
